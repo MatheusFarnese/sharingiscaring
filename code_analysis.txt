@@ -1,0 +1,7439 @@
+
+================================================================================
+LAYER 0
+================================================================================
+
+Layer 0 - Code 1
+Occurrences: 16
+
+Representative movies:
+------------------------------
+Adventures of Priscilla, Queen of the Desert, The
+Client, The
+Flower of My Secret, The
+Father of the Bride
+Sword in the Stone, The
+Victor/Victoria
+Cook the Thief His Wife & Her Lover, The
+Princess Bride, The
+Audrey Rose
+Portrait of a Lady, The
+Pillow Book, The
+Purple Rose of Cairo, The
+Love Letter, The
+Color Purple, The
+Outrageous Fortune
+Crimson Pirate, The
+
+
+Layer 0 - Code 2
+Occurrences: 18
+
+Representative movies:
+------------------------------
+Billy Madison
+Normal Life
+Sling Blade
+Chinese Box
+Wild Man Blues
+Heaven
+Eyes Wide Shut
+Funny Farm
+Caligula
+Sanjuro
+42 Up
+Two Thousand Maniacs!
+Blazing Saddles
+Decline of Western Civilization Part II: The Metal Years, The
+House Party 2
+Croupier
+Pokémon the Movie 2000
+X: The Unknown
+
+
+Layer 0 - Code 4
+Occurrences: 5
+
+Representative movies:
+------------------------------
+For the Moment
+Broken English
+Pokémon: The First Movie
+Make Mine Music
+Scary Movie
+
+
+Layer 0 - Code 5
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Prophecy, The
+Inkwell, The
+Pecker
+Celebration, The
+Theory of Flight, The
+Private School
+
+
+Layer 0 - Code 7
+Occurrences: 45
+
+Representative movies:
+------------------------------
+Last Summer in the Hamptons
+Fluke
+I.Q.
+Speechless
+House Party 3
+Cold Fever
+True Crime
+Story of Xinghua, The
+Cape Fear
+Cape Fear
+Indian Summer
+Fast, Cheap & Out of Control
+Joy Luck Club, The
+My Life in Pink
+Welcome to Woop-Woop
+Kurt & Courtney
+High Art
+Grand Hotel
+French Connection, The
+Last Emperor, The
+
+
+Layer 0 - Code 8
+Occurrences: 16
+
+Representative movies:
+------------------------------
+Clueless
+Awfully Big Adventure, An
+Blue in the Face
+Doom Generation, The
+Free Willy 2: The Adventure Home
+Much Ado About Nothing
+Trigger Effect, The
+Shadow Conspiracy
+Once Upon a Time in America
+Man Who Knew Too Little, The
+Clockwatchers
+Bulworth
+Metropolitan
+This World, Then the Fireworks
+Alarmist, The
+Cocoon: The Return
+
+
+Layer 0 - Code 11
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Program, The
+Meet Wally Sparks
+Henry: Portrait of a Serial Killer, Part 2
+Wisdom
+Karate Kid, Part II, The
+Baby Geniuses
+
+
+Layer 0 - Code 12
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Slingshot, The
+To Gillian on Her 37th Birthday
+Star Trek III: The Search for Spock
+Celebrity
+Superman III
+Zed & Two Noughts, A
+Kronos
+Kronos
+
+
+Layer 0 - Code 15
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Gumby: The Movie
+Carried Away
+Multiplicity
+To Catch a Thief
+Body Snatcher, The
+Far Off Place, A
+Reindeer Games
+Jacob's Ladder
+Benji
+
+
+Layer 0 - Code 20
+Occurrences: 16
+
+Representative movies:
+------------------------------
+Man of the Year
+Poison Ivy II
+Cosi
+Shaggy Dog, The
+Hotel de Love
+Rocket Man
+Oliver!
+Billy's Hollywood Screen Kiss
+Best Man, The
+Impostors, The
+Morning After, The
+Tingler, The
+Best Man, The
+Retroactive
+Saludos Amigos
+Adventures of Rocky and Bullwinkle, The
+
+
+Layer 0 - Code 21
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Carrington
+Houseguest
+What's Eating Gilbert Grape
+Johns
+Navigator: A Mediaeval Odyssey, The
+Lodger, The
+Frankenstein Meets the Wolf Man
+Source, The
+Wonder Boys
+My Tutor
+
+
+Layer 0 - Code 25
+Occurrences: 15
+
+Representative movies:
+------------------------------
+White Balloon, The
+Far From Home: The Adventures of Yellow Dog
+Swan Princess, The
+Safe Passage
+Robert A. Heinlein's The Puppet Masters
+Maya Lin: A Strong Clear Vision
+Pest, The
+Wild America
+Seventh Heaven
+Boy Who Could Fly, The
+Belizaire the Cajun
+Winslow Boy, The
+Flamingo Kid, The
+Puppet Master
+Greaser's Palace
+
+
+Layer 0 - Code 28
+Occurrences: 53
+
+Representative movies:
+------------------------------
+Four Rooms
+Showgirls
+Ed Wood
+Natural Born Killers
+Ready to Wear
+Four Weddings and a Funeral
+Faster Pussycat! Kill! Kill!
+Hot Shots! Part Deux
+Super Mario Bros.
+Original Gangstas
+Marlene Dietrich: Shadow and Light
+Independence Day
+Some Like It Hot
+Surviving Picasso
+Reservoir Dogs
+Basic Instinct
+E.T. the Extra-Terrestrial
+Madonna: Truth or Dare
+Aliens
+Grand Day Out, A
+
+
+Layer 0 - Code 30
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Jerky Boys, The
+Rent-a-Kid
+Cobb
+Pagemaster, The
+Fear
+My Man Godfrey
+Waiting for Guffman
+Journey of Natty Gann, The
+American Tail: Fievel Goes West, An
+Summer of Sam
+My Man Godfrey
+Raisin in the Sun, A
+Let's Get Harry
+
+
+Layer 0 - Code 33
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Maybe, Maybe Not
+To Be or Not to Be
+Last Time I Saw Paris, The
+Muppets From Space
+My Life So Far
+
+
+Layer 0 - Code 39
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Bronx Tale, A
+Operation Dumbo Drop
+Ed's Next Move
+Alan Smithee Film: Burn Hollywood Burn, An
+Tales from the Darkside: The Movie
+Steam: The Turkish Bath
+52 Pick-Up
+Doug's 1st Movie
+Open Your Eyes
+Blair Witch Project, The
+
+
+Layer 0 - Code 42
+Occurrences: 72
+
+Representative movies:
+------------------------------
+Pocahontas
+Kids of the Round Table
+Mary Reilly
+Jupiter's Wife
+Crimson Tide
+Moonlight and Valentino
+To Wong Foo, Thanks for Everything! Julie Newmar
+Little Princess, A
+Three Colors: Red
+Double Happiness
+I Like It Like That
+Jason's Lyric
+Airheads
+M. Butterfly
+Princess Caraboo
+Jack and Sarah
+James and the Giant Peach
+Stealing Beauty
+First Kid
+Breakfast at Tiffany's
+
+
+Layer 0 - Code 44
+Occurrences: 27
+
+Representative movies:
+------------------------------
+Addiction, The
+Milk Money
+Specialist, The
+Beverly Hillbillies, The
+Island of Dr. Moreau, The
+Pompatus of Love, The
+Love Bug, The
+Hearts and Minds
+Beautician and the Beast, The
+Private Parts
+B*A*P*S
+Promise, The
+Winter Guest, The
+Broadway Melody, The
+Money Pit, The
+Shakespeare in Love
+General, The
+Edge of Seventeen
+Son of Dracula
+Thomas Crown Affair, The
+
+
+Layer 0 - Code 45
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Glory Daze
+T-Men
+Tin Men
+My Best Friend's Wedding
+Mercury Rising
+Prancer
+Fly II, The
+American Flyers
+
+
+Layer 0 - Code 46
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Black Sheep
+Kiss of Death
+It Happened One Night
+Bitter Sugar
+When the Cats Away
+Eve's Bayou
+Black Dog
+Black Hole, The
+Wood, The
+Hell Night
+Mike's Murder
+Fight Club
+All About My Mother
+Black and White
+
+
+Layer 0 - Code 48
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Some Mother's Son
+Tarzan and the Lost City
+Dream for an Insomniac
+Pope of Greenwich Village, The
+Brother, Can You Spare a Dime?
+Ninth Gate, The
+Sesame Street Presents Follow That Bird
+Puppet Master III: Toulon's Revenge
+
+
+Layer 0 - Code 53
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Usual Suspects, The
+Age of Innocence, The
+Clean Slate
+Clean Slate
+Citizen Kane
+
+
+Layer 0 - Code 54
+Occurrences: 16
+
+Representative movies:
+------------------------------
+Mr. Holland's Opus
+Brothers McMullen, The
+Dumb & Dumber
+Priest
+Amos & Andrew
+Lost in Space
+Major League: Back to the Minors
+Labyrinth
+Heartbreak Ridge
+Melvin and Howard
+Stand and Deliver
+Big Tease, The
+Jonah Who Will Be 25 in the Year 2000
+Thunderbolt and Lightfoot
+White Sands
+Fantastic Voyage
+
+
+Layer 0 - Code 55
+Occurrences: 9
+
+Representative movies:
+------------------------------
+When Night Is Falling
+Threesome
+Mulholland Falls
+I Can't Sleep
+That Old Feeling
+Two Girls and a Guy
+I Went Down
+Violets Are Blue...
+Girlfight
+
+
+Layer 0 - Code 57
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Backbeat
+Lightning Jack
+Surviving the Game
+301, 302
+Aladdin and the King of Thieves
+Children of the Corn IV: The Gathering
+Duck Soup
+Head Above Water
+Steamboat Willie
+Gods Must Be Crazy II, The
+Trading Places
+Brandon Teena Story, The
+Puppet Master 4
+
+
+Layer 0 - Code 58
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Walk in the Clouds, A
+Hudsucker Proxy, The
+Poseidon Adventure, The
+Shaggy D.A., The
+Stardust Memories
+Green Mile, The
+Brother from Another Planet, The
+
+
+Layer 0 - Code 60
+Occurrences: 11
+
+Representative movies:
+------------------------------
+Umbrellas of Cherbourg, The
+Picture Bride
+Godfather, The
+U.S. Marshalls
+Soldier
+Rugrats Movie, The
+Romancing the Stone
+Dancemaker
+Cradle Will Rock, The
+Bodyguard, The
+Roustabout
+
+
+Layer 0 - Code 61
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Pulp Fiction
+Fear of a Black Hat
+M
+Ghosts of Mississippi
+All Quiet on the Western Front
+Children of the Corn
+I Confess
+If....
+Children of the Corn III
+Sixth Sense, The
+Meatballs Part II
+Lucas
+U-571
+Phantasm IV: Oblivion
+
+
+Layer 0 - Code 64
+Occurrences: 48
+
+Representative movies:
+------------------------------
+Bottle Rocket
+Kid in King Arthur's Court, A
+Red Firecracker, Green Firecracker
+Red Rock West
+Little Rascals, The
+Spy Hard
+Arrival, The
+Fled
+Kazaam
+Little Princess, The
+Fish Called Wanda, A
+Drop Dead Fred
+Raise the Red Lantern
+Mars Attacks!
+Cats Don't Dance
+Children of the Revolution
+Ponette
+Red Corner
+He Got Game
+Prince Valiant
+
+
+Layer 0 - Code 66
+Occurrences: 74
+
+Representative movies:
+------------------------------
+Dangerous Minds
+Georgia
+White Squall
+Catwalk
+Casper
+Safe
+Hoop Dreams
+Junior
+Three Colors: White
+Shawshank Redemption, The
+Lion King, The
+S.F.W.
+Ruby in Paradise
+Matilda
+Picnic
+Apple Dumpling Gang, The
+Pollyanna
+Mary Poppins
+Ran
+Great Escape, The
+
+
+Layer 0 - Code 67
+Occurrences: 42
+
+Representative movies:
+------------------------------
+Muppet Treasure Island
+Braveheart
+Outbreak
+Santa Clause, The
+Baby-Sitters Club, The
+House of the Spirits, The
+Lassie
+So I Married an Axe Murderer
+She's the One
+Girls Town
+Fox and the Hound, The
+Two or Three Things I Know About Her
+Hype!
+Blood & Wine
+Twin Town
+She's So Lovely
+Smile Like Yours, A
+House of Yes, The
+FairyTale: A True Story
+Hello Mary Lou: Prom Night II
+
+
+Layer 0 - Code 69
+Occurrences: 21
+
+Representative movies:
+------------------------------
+Aladdin
+Courage Under Fire
+Reluctant Debutante, The
+Fly Away Home
+Pete's Dragon
+Alice in Wonderland
+Secret Agent, The
+Damsel in Distress, A
+Jean de Florette
+Love Jones
+Dear Jesse
+Peter Pan
+Rescuers Down Under, The
+Next Stop, Wonderland
+Secret Agent
+Siege, The
+Gulliver's Travels
+Blue Lagoon, The
+Son of the Sheik, The
+Crow: Salvation, The
+
+
+Layer 0 - Code 74
+Occurrences: 157
+
+Representative movies:
+------------------------------
+Heat
+Sabrina
+GoldenEye
+Get Shorty
+Assassins
+Dead Presidents
+Restoration
+Nico Icon
+Drop Zone
+French Kiss
+Hideaway
+Glass Shield, The
+New Jersey Drive
+Tommy Boy
+Speed
+Above the Rim
+Blown Away
+Color of Night
+Fearless
+Flesh and Bone
+
+
+Layer 0 - Code 75
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Jefferson in Paris
+39 Steps, The
+Price Above Rubies, A
+Life of Émile Zola, The
+Return of Jafar, The
+Strangers on a Train
+Lady Vanishes, The
+It Came from Outer Space
+Omega Code, The
+
+
+Layer 0 - Code 76
+Occurrences: 11
+
+Representative movies:
+------------------------------
+Star Trek: Generations
+Wes Craven's New Nightmare
+Hellraiser: Bloodline
+Chamber, The
+Deep Rising
+Nightmare on Elm Street Part 2: Freddy's Revenge, A
+Prom Night III: The Last Kiss
+Prom Night IV: Deliver Us From Evil
+St. Elmo's Fire
+Day of the Beast, The
+Seven Days in May
+
+
+Layer 0 - Code 77
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Young Poisoner's Handbook, The
+Last Supper, The
+Grand Canyon
+Dinner Game, The
+Twin Falls Idaho
+Slaughterhouse 2
+Messenger: The Story of Joan of Arc, The
+Shanghai Surprise
+Modern Times
+Toxic Avenger, The
+Toxic Avenger, Part II, The
+Hot Spot, The
+H.O.T.S.
+
+
+Layer 0 - Code 78
+Occurrences: 80
+
+Representative movies:
+------------------------------
+Othello
+Twelve Monkeys
+If Lucy Fell
+Rob Roy
+Three Wishes
+Heavenly Creatures
+Nina Takes a Lover
+I Love Trouble
+Street Fighter
+Black Beauty
+Fatal Instinct
+Good Man in Africa, A
+Silence of the Lambs, The
+Bye Bye, Love
+Homeward Bound II: Lost in San Francisco
+Girl 6
+Moll Flanders
+Barbarella
+Truth About Cats & Dogs, The
+American Buffalo
+
+
+Layer 0 - Code 86
+Occurrences: 52
+
+Representative movies:
+------------------------------
+Fair Game
+Net, The
+Under Siege 2: Dark Territory
+Panther
+Tales From the Crypt Presents: Demon Knight
+Naked Gun 33 1/3: The Final Insult
+Another Stakeout
+Demolition Man
+Widows' Peak
+Careful
+Bulletproof
+Vertigo
+Gone with the Wind
+Maximum Risk
+Last Man Standing
+Dumbo
+Unhook the Stars
+Sleepers
+Army of Darkness
+Down by Law
+
+
+Layer 0 - Code 89
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Now and Then
+Exit to Eden
+Pushing Hands
+Chasers
+Thinner
+Thin Man, The
+Extreme Measures
+Fanny and Alexander
+For All Mankind
+
+
+Layer 0 - Code 90
+Occurrences: 7
+
+Representative movies:
+------------------------------
+George of the Jungle
+Ever After: A Cinderella Story
+Chopping Mall
+It Came from Beneath the Sea
+Adventures of Sebastian Cole, The
+Dirty Dozen, The
+March of the Wooden Soldiers
+
+
+Layer 0 - Code 91
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Phantom, The
+Innocents, The
+Third Man, The
+Whatever
+Minus Man, The
+Who's That Girl?
+Braddock: Missing in Action III
+
+
+Layer 0 - Code 92
+Occurrences: 16
+
+Representative movies:
+------------------------------
+Son in Law
+Bringing Up Baby
+Bedknobs and Broomsticks
+Deceiver
+Negotiator, The
+Weird Science
+Dead Man on Campus
+Firelight
+Paradine Case, The
+Stepmom
+Dogma
+Awakenings
+Encino Man
+Keeping the Faith
+Limelight
+Contender, The
+
+
+Layer 0 - Code 94
+Occurrences: 58
+
+Representative movies:
+------------------------------
+Bio-Dome
+Things to Do in Denver when You're Dead
+Antonia's Line
+Rumble in the Bronx
+Ladybird Ladybird
+True Lies
+Coneheads
+Hard Target
+In the Line of Fire
+Savage Nights
+Batman
+Bread and Chocolate
+Denise Calls Up
+Barb Wire
+Crossfire
+Delicatessen
+Big Sleep, The
+Burnt Offerings
+Batman Returns
+U Turn
+
+
+Layer 0 - Code 95
+Occurrences: 11
+
+Representative movies:
+------------------------------
+Wild Reeds
+Robin Hood: Prince of Thieves
+Monty Python and the Holy Grail
+Austin Powers: International Man of Mystery
+Education of Little Tree, The
+Darby O'Gill and the Little People
+Muppet Christmas Carol, The
+Rambo: First Blood Part II
+Blast from the Past
+Creepshow
+Howards End
+
+
+Layer 0 - Code 99
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Powder
+Madness of King George, The
+Star Trek: The Wrath of Khan
+Wrong Man, The
+Godzilla 2000
+
+
+Layer 0 - Code 100
+Occurrences: 67
+
+Representative movies:
+------------------------------
+Pie in the Sky
+Beyond Rangoon
+White Man's Burden
+Boys on the Side
+Circle of Friends
+Farinelli: il castrato
+Quiz Show
+Suture
+Shadowlands
+Wallace & Gromit: The Best of Aardman Animation
+Nutty Professor, The
+Daylight
+North by Northwest
+Apartment, The
+Pump Up the Volume
+Amityville: A New Generation
+Nightwatch
+Machine, The
+Men in Black
+Event Horizon
+
+
+Layer 0 - Code 104
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Being Human
+Angel and the Badman
+In the Line of Duty 2
+Mirror Has Two Faces, The
+Wings of the Dove, The
+Stranger in the House
+Odd Couple II, The
+Lost Weekend, The
+House II: The Second Story
+Fright Night Part II
+My Best Fiend
+Next Friday
+Sister Act 2: Back in the Habit
+F/X 2
+
+
+Layer 0 - Code 110
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Once Upon a Time... When We Were Colored
+Family Thing, A
+Alaska
+Brighton Beach Memoirs
+Marcello Mastroianni: I Remember Yes, I Remember
+How I Won the War
+Class Reunion
+Puppet Master 5: The Final Chapter
+
+
+Layer 0 - Code 113
+Occurrences: 13
+
+Representative movies:
+------------------------------
+It Takes Two
+Homeward Bound: The Incredible Journey
+Evil Dead II
+Jingle All the Way
+101 Dalmatians
+Mrs. Dalloway
+Barney's Great Adventure
+101 Dalmatians
+Adventures in Babysitting
+One Crazy Summer
+Bringing Out the Dead
+On Any Sunday
+Sleepaway Camp
+
+
+Layer 0 - Code 115
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Frankie Starlight
+Just Cause
+Naked
+Naked in New York
+Bonnie and Clyde
+West Beirut
+Poison Ivy
+Jail Bait
+Birdy
+She's Gotta Have It
+Gypsy
+Things Change
+Supergirl
+
+
+Layer 0 - Code 118
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Line King: Al Hirschfeld, The
+April Fool's Day
+Opposite of Sex, The
+Repulsion
+Puppet Master II
+
+
+Layer 0 - Code 129
+Occurrences: 42
+
+Representative movies:
+------------------------------
+Stars Fell on Henrietta, The
+Only You
+Quick and the Dead, The
+You So Crazy
+Switchblade Sisters
+Haunted World of Edward D. Wood Jr., The
+Land Before Time III: The Time of the Great Giving
+Grace of My Heart
+2 Days in the Valley
+So Dear to My Heart
+When We Were Kings
+Mina Tannenbaum
+Best of the Best 3: No Turning Back
+Paris Is Burning
+Star Wars: Episode VI - Return of the Jedi
+Jackie Chan's First Strike
+Last Time I Committed Suicide, The
+Time Tracers
+Friday the 13th Part 3: 3D
+Halloween II
+
+
+Layer 0 - Code 130
+Occurrences: 70
+
+Representative movies:
+------------------------------
+Sudden Death
+Richard III
+Before and After
+Feast of July
+Little Women
+Swimming with Sharks
+To Live
+Forrest Gump
+Richie Rich
+With Honors
+What Happened Was...
+Radioland Murders
+Road to Wellville, The
+Short Cuts
+Little Big League
+Delta of Venus
+Cable Guy, The
+Rendezvous in Paris
+Twelfth Night
+Charade
+
+
+Layer 0 - Code 131
+Occurrences: 11
+
+Representative movies:
+------------------------------
+Congo
+Muriel's Wedding
+Strictly Ballroom
+Grease
+Grease 2
+Deep Impact
+Rocky
+Mole People, The
+Julien Donkey-Boy
+King Creole
+Tampopo
+
+
+Layer 0 - Code 134
+Occurrences: 100
+
+Representative movies:
+------------------------------
+Jumanji
+Home for the Holidays
+Two if by Sea
+Big Bully
+Boys of St. Vincent, The
+Mighty Morphin Power Rangers: The Movie
+Something to Talk About
+Sum of Us, The
+For Love or Money
+I'll Do Anything
+Window to Paris
+Two Much
+Thin Line Between Love and Hate, A
+Mission: Impossible
+Bloodsport 2
+Spirits of the Dead
+Larger Than Life
+Tales from the Crypt Presents: Bordello of Blood
+Ballad of Narayama, The
+Angel on My Shoulder
+
+
+Layer 0 - Code 136
+Occurrences: 43
+
+Representative movies:
+------------------------------
+Dracula: Dead and Loving It
+Vampire in Brooklyn
+Down Periscope
+Tales from the Hood
+Village of the Damned
+Mrs. Parker and the Vicious Circle
+In the Mouth of Madness
+Ciao, Professore!
+Harriet the Spy
+East of Eden
+Sleeper
+Fog, The
+Dadetown
+Amityville 3-D
+Dante's Peak
+Sphere
+Small Soldiers
+Exorcist II: The Heretic
+Black Cauldron, The
+Return from Witch Mountain
+
+
+Layer 0 - Code 138
+Occurrences: 32
+
+Representative movies:
+------------------------------
+Margaret's Museum
+Goofy Movie, A
+Walking Dead, The
+Dazed and Confused
+Endless Summer 2, The
+Executive Decision
+Wild Bunch, The
+Big Squeeze, The
+Wizard of Oz, The
+Golden Earrings
+Weekend at Bernie's
+Perfect Candidate, A
+Albino Alligator
+Ulee's Gold
+Playing God
+Life Less Ordinary, A
+Dead Zone, The
+Thing, The
+Sid and Nancy
+Crocodile Dundee II
+
+
+Layer 0 - Code 139
+Occurrences: 47
+
+Representative movies:
+------------------------------
+Shanghai Triad
+To Die For
+Eat Drink Man Woman
+Murder in the First
+Blink
+Man Without a Face, The
+Three Musketeers, The
+Paris, France
+Stupids, The
+Hunchback of Notre Dame, The
+First Wives Club, The
+Crow: City of Angels, The
+Wife, The
+Meet Me in St. Louis
+Rich Man's Wife, The
+Everyone Says I Love You
+Stalker
+Back to the Future
+Jaws 3-D
+Saint, The
+
+
+Layer 0 - Code 140
+Occurrences: 142
+
+Representative movies:
+------------------------------
+Casino
+Ace Ventura: When Nature Calls
+How to Make an American Quilt
+Flirting With Disaster
+Bad Boys
+Batman Forever
+Clockers
+Total Eclipse
+Bushwhacked
+Dolores Claiborne
+Like Water for Chocolate
+Mixed Nuts
+Stuart Saves His Family
+Ace Ventura: Pet Detective
+Bitter Moon
+Higher Learning
+Reality Bites
+Wyatt Earp
+Boys Life
+Blue Chips
+
+
+Layer 0 - Code 141
+Occurrences: 20
+
+Representative movies:
+------------------------------
+Mr. Wrong
+Shadow, The
+Thirty-Two Short Films About Glenn Gould
+Spanking the Monkey
+Bewegte Mann, Der
+20,000 Leagues Under the Sea
+Grosse Fatigue
+Omen, The
+Smilla's Sense of Snow
+Exorcist, The
+Trip to Bountiful, The
+Cruise, The
+Office Space
+Mildred Pierce
+South Park: Bigger, Longer and Uncut
+Pit and the Pendulum
+Excalibur
+Bad Seed, The
+Perils of Pauline, The
+About Adam
+
+
+Layer 0 - Code 142
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Waiting to Exhale
+Clockwork Orange, A
+Shining, The
+Young Doctors in Love
+Conformist, The
+Longest Day, The
+
+
+Layer 0 - Code 143
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Perez Family, The
+Paper, The
+Secret Adventures of Tom Thumb, The
+Favor, The
+Saint of Fort Washington, The
+Sixth Man, The
+Friday the 13th Part VII: The New Blood
+Hocus Pocus
+Seventh Sign, The
+Fletch Lives
+Prince of Egypt, The
+Phantasm
+Seven Chances
+Invisible Man, The
+
+
+Layer 0 - Code 147
+Occurrences: 34
+
+Representative movies:
+------------------------------
+In the Bleak Midwinter
+Three Colors: Blue
+Even Cowgirls Get the Blues
+Escape to Witch Mountain
+Thin Blue Line, The
+Once Upon a Time in the West
+Stand by Me
+Hamlet
+Whole Wide World, The
+SubUrbia
+Wonderland
+Blues Brothers 2000
+Zero Effect
+Little Boy Blue
+Hamlet
+Seven Samurai
+See the Sea
+Under Capricorn
+My Blue Heaven
+Mortal Thoughts
+
+
+Layer 0 - Code 151
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Wedding Gift, The
+Meet John Doe
+Nowhere
+Friday the 13th Part 2
+Gremlins
+Pal Joey
+Hollow Man
+
+
+Layer 0 - Code 156
+Occurrences: 20
+
+Representative movies:
+------------------------------
+Father of the Bride Part II
+Across the Sea of Time
+In the Name of the Father
+Germinal
+Mr. Smith Goes to Washington
+Associate, The
+Graduate, The
+Man Who Would Be King, The
+Free Willy 3: The Rescue
+Star Trek: Insurrection
+Gate, The
+Beyond the Poseidon Adventure
+eXistenZ
+Distinguished Gentleman, The
+Bicentennial Man
+To Sir with Love
+Prince of Tides, The
+Actor's Revenge, An
+Prizzi's Honor
+What About Bob?
+
+
+Layer 0 - Code 159
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Home Alone
+Frighteners, The
+Rebecca
+Enchanted April
+Rosencrantz and Guildenstern Are Dead
+Desperate Measures
+Halloween 4: The Return of Michael Myers
+Halloween 5: The Revenge of Michael Myers
+Dirty Work
+Fletch
+Guess Who's Coming to Dinner
+Guys and Dolls
+
+
+Layer 0 - Code 161
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Amazing Panda Adventure, The
+Grass Harp, The
+Affair to Remember, An
+Christmas Carol, A
+Romy and Michele's High School Reunion
+Nightmare on Elm Street 5: The Dream Child, A
+Children of a Lesser God
+Loss of Sexual Innocence, The
+Children of Paradise
+Poison Ivy: New Seduction
+
+
+Layer 0 - Code 165
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Waterworld
+Roommates
+Search for One-eye Jimmy, The
+In Search of the Castaways
+Star Wars: Episode I - The Phantom Menace
+
+
+Layer 0 - Code 167
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Belle de jour
+Clear and Present Danger
+River Wild, The
+Poetic Justice
+Visitors, The
+Manon of the Spring
+Ice Storm, The
+New Rose Hotel
+
+
+Layer 0 - Code 169
+Occurrences: 108
+
+Representative movies:
+------------------------------
+Birdcage, The
+Basketball Diaries, The
+Crumb
+Clerks
+Destiny Turns on the Radio
+Little Odessa
+Once Were Warriors
+Shallow Grave
+Strawberry and Chocolate
+Tank Girl
+Corrina, Corrina
+Little Buddha
+Calendar Girl
+Serial Mom
+Bhaji on the Beach
+Ghost
+Pretty Woman
+My Favorite Season
+Space Jam
+Cold Comfort Farm
+
+
+Layer 0 - Code 173
+Occurrences: 203
+
+Representative movies:
+------------------------------
+Nixon
+Money Train
+Babe
+Lamerica
+From Dusk Till Dawn
+Kicking and Screaming
+Hate
+City Hall
+Happy Gilmore
+Desperado
+Die Hard: With a Vengeance
+Kids
+Wild Bill
+Burnt By the Sun
+Miami Rhapsody
+My Family
+War, The
+Low Down Dirty Shame, A
+Addams Family Values
+Blue Sky
+
+
+Layer 0 - Code 175
+Occurrences: 22
+
+Representative movies:
+------------------------------
+Seven
+Stargate
+Firm, The
+Mrs. Doubtfire
+Cronos
+Andre
+Striptease
+Glengarry Glen Ross
+Rosewood
+Losing Chase
+Bonheur, Le
+Roseanna's Grave
+Mimic
+Rosemary's Baby
+Shadrach
+Dick Tracy
+Arlington Road
+Agnes of God
+Cutting Edge, The
+Betrayed
+
+
+Layer 0 - Code 176
+Occurrences: 6
+
+Representative movies:
+------------------------------
+City Slickers II: The Legend of Curly's Gold
+Shine
+Son of Flubber
+Golden Child, The
+Allan Quartermain and the Lost City of Gold
+Original Kings of Comedy, The
+
+
+Layer 0 - Code 178
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Heidi Fleiss: Hollywood Madam
+Man for All Seasons, A
+Belly
+Urbania
+Hellraiser
+
+
+Layer 0 - Code 179
+Occurrences: 33
+
+Representative movies:
+------------------------------
+Leaving Las Vegas
+Amateur
+Devil in a Blue Dress
+Pallbearer, The
+Loaded
+Month by the Lake, A
+Foxfire
+Lost Horizon
+Blue Angel, The
+Ghost and the Darkness, The
+Funeral, The
+Shooter, The
+Big Blue, The
+Blues Brothers, The
+Manhattan
+All Over Me
+Soul Food
+Devil's Advocate, The
+You Can't Take It With You
+Dune
+
+
+Layer 0 - Code 186
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Sense and Sensibility
+Up Close and Personal
+House Arrest
+Secrets & Lies
+Michael
+Amistad
+Night at the Roxbury, A
+Jerry Springer: Ringmaster
+Payback
+Double Jeopardy
+Hairspray
+Big Carnival, The
+Chuck & Buck
+Bamboozled
+
+
+Layer 0 - Code 189
+Occurrences: 18
+
+Representative movies:
+------------------------------
+Air Up There, The
+Welcome to the Dollhouse
+Return of Martin Guerre, The
+Room with a View, A
+Amityville: Dollhouse
+Van, The
+Designated Mourner, The
+Excess Baggage
+Arguing the World
+Chambermaid on the Titanic, The
+Shadow of a Doubt
+Gate II: Trespassers, The
+Conquest of the Planet of the Apes
+Bedroom Window, The
+Someone to Watch Over Me
+Prince of the City
+Asylum
+Eyes of Tammy Faye, The
+
+
+Layer 0 - Code 192
+Occurrences: 12
+
+Representative movies:
+------------------------------
+My Crazy Life
+Life with Mikey
+Manny & Lo
+This Is Spinal Tap
+Boys Life 2
+Jungle2Jungle
+Friday the 13th Part V: A New Beginning
+History of the World: Part I
+Airplane II: The Sequel
+I Saw What You Did
+Experience Preferred... But Not Essential
+Commitments, The
+
+
+Layer 0 - Code 193
+Occurrences: 34
+
+Representative movies:
+------------------------------
+Castle Freak
+Heavyweights
+Mask, The
+Cops and Robbersons
+Ref, The
+Robin Hood: Men in Tights
+Mystery Science Theater 3000: The Movie
+Cemetery Man
+High School High
+Ghost and Mrs. Muir, The
+Angels in the Outfield
+Private Benjamin
+Hollow Reed
+Almost Heroes
+Doctor Dolittle
+There's Something About Mary
+Doctor Dolittle
+Elizabeth
+Desperately Seeking Susan
+Howard the Duck
+
+
+Layer 0 - Code 194
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Reckless
+Double Life of Veronique, The
+Braindead
+My Boyfriend's Back
+Lady Eve, The
+Gone in 60 Seconds
+
+
+Layer 0 - Code 196
+Occurrences: 46
+
+Representative movies:
+------------------------------
+Lord of Illusions
+Flintstones, The
+Timecop
+When a Man Loves a Woman
+Free Willy
+Romeo Is Bleeding
+Beans of Egypt, Maine, The
+Dances with Wolves
+Beauty and the Beast
+Boys
+Craft, The
+Around the World in 80 Days
+Of Human Bondage
+Old Yeller
+To Kill a Mockingbird
+Somewhere in Time
+American Werewolf in London, An
+Amityville Curse, The
+Paradise Lost: The Child Murders at Robin Hood Hills
+Bastard Out of Carolina
+
+
+Layer 0 - Code 197
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Living in Oblivion
+Unzipped
+Planet of the Apes
+Beneath the Planet of the Apes
+Black Tar Heroin: The Dark End of the Street
+
+
+Layer 0 - Code 198
+Occurrences: 24
+
+Representative movies:
+------------------------------
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+Mad Love
+Death and the Maiden
+Crow, The
+Boxing Helena
+Simple Twist of Fate, A
+Nightmare Before Christmas, The
+Heavy Metal
+Stalingrad
+Trainspotting
+Fire Down Below
+Wedding Singer, The
+Suicide Kings
+King Kong
+King Kong
+Pet Sematary
+Mommie Dearest
+400 Blows, The
+Operation Condor
+Single White Female
+
+
+Layer 0 - Code 200
+Occurrences: 25
+
+Representative movies:
+------------------------------
+Boomerang
+Cliffhanger
+Romper Stomper
+Underground
+Angus
+Faces
+Laura
+Alien
+Blob, The
+Nénette et Boni
+Bean
+Alien Escape
+Homegrown
+My Giant
+Mephisto
+Legend
+Mass Appeal
+Fantastic Planet, The
+Forces of Nature
+Lucie Aubrac
+
+
+Layer 0 - Code 202
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Miracle on 34th Street
+Crying Game, The
+Miracle on 34th Street
+Out-of-Towners, The
+Thing From Another World, The
+
+
+Layer 0 - Code 203
+Occurrences: 256
+
+Representative movies:
+------------------------------
+Balto
+Copycat
+Mortal Kombat
+Big Green, The
+Beautiful Girls
+Nobody Loves Me
+Taxi Driver
+Chungking Express
+Hackers
+Johnny Mnemonic
+Love & Human Remains
+Immortal Beloved
+Legends of the Fall
+Nell
+Bullets Over Broadway
+Wolf
+Bad Company
+Coldblooded
+8 Seconds
+Barcelona
+
+
+Layer 0 - Code 204
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Postino, Il
+Mary Shelley's Frankenstein
+Secret of Roan Inish, The
+Maltese Falcon, The
+Bob Roberts
+Six Days Seven Nights
+Tom Jones
+Lord of the Rings, The
+Butcher's Wife, The
+Monster, The
+Fire Within, The
+Jeremiah Johnson
+Muppet Movie, The
+Faraway, So Close
+
+
+Layer 0 - Code 205
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Celluloid Closet, The
+Phenomenon
+Big Chill, The
+Corruptor, The
+My Son the Fanatic
+
+
+Layer 0 - Code 208
+Occurrences: 24
+
+Representative movies:
+------------------------------
+First Knight
+Love Affair
+Man of the House
+Ransom
+Little Lord Fauntleroy
+Looking for Richard
+Transformers: The Movie, The
+Young Frankenstein
+Garden of Finzi-Contini, The
+Falling in Love Again
+Gabbeh
+Butcher Boy, The
+Prophecy II, The
+Go Now
+Heart Condition
+Glen or Glenda
+Friends & Lovers
+Little Shop of Horrors, The
+Guinevere
+Rosetta
+
+
+Layer 0 - Code 210
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Friday
+Disclosure
+Heaven & Earth
+Volcano
+Hope Floats
+Klute
+Desert Bloom
+Last Days, The
+Perfect Blue
+In Too Deep
+Hanging Up
+Captain Horatio Hornblower
+Dreamscape
+
+
+Layer 0 - Code 212
+Occurrences: 54
+
+Representative movies:
+------------------------------
+Grumpier Old Men
+Lawnmower Man 2: Beyond Cyberspace
+Misérables, Les
+Mallrats
+Nine Months
+Enfer, L'
+National Lampoon's Senior Trip
+Maverick
+Federal Hill
+What's Love Got to Do with It?
+Manhattan Murder Mystery
+Nothing to Lose
+Relic, The
+Inspector General, The
+That Thing You Do!
+Jude
+Great Race, The
+Eighth Day, The
+He Walked by Night
+Metro
+
+
+Layer 0 - Code 214
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Bad Girls
+Howling, The
+Cat People
+Big Hit, The
+Vampires
+Hard Day's Night, A
+Natural, The
+Good Mother, The
+Hunger, The
+Committed
+
+
+Layer 0 - Code 216
+Occurrences: 31
+
+Representative movies:
+------------------------------
+Don Juan DeMarco
+Professional, The
+Cowboy Way, The
+Outlaw, The
+Parent Trap, The
+Candidate, The
+Sophie's Choice
+Lawrence of Arabia
+Manchurian Candidate, The
+Substance of Fire, The
+Jerry Maguire
+Evening Star, The
+Object of My Affection, The
+Terms of Endearment
+Parent Trap, The
+Night Porter, The
+Patch Adams
+Fly, The
+Fly, The
+Run Lola Run
+
+
+Layer 0 - Code 217
+Occurrences: 18
+
+Representative movies:
+------------------------------
+Cure, The
+Major Payne
+Underneath, The
+Sgt. Bilko
+Substitute, The
+Full Monty, The
+Great Expectations
+Replacement Killers, The
+Mr. Nice Guy
+Color of Money, The
+After Life
+Deuce Bigalow: Male Gigolo
+Wayne's World 2
+Next Best Thing, The
+Shakes the Clown
+Replacements, The
+Meet the Parents
+Requiem for a Dream
+
+
+Layer 0 - Code 218
+Occurrences: 52
+
+Representative movies:
+------------------------------
+Toy Story
+French Twist
+Dunston Checks In
+Apollo 13
+Before Sunrise
+Killing Zoe
+Oliver & Company
+Jack
+William Shakespeare's Romeo and Juliet
+Abyss, The
+Cinema Paradiso
+Mad Dog Time
+Beavis and Butt-head Do America
+Best Men
+8 Heads in a Duffel Bag
+Second Jungle Book: Mowgli & Baloo, The
+Tetsuo II: Body Hammer
+In the Company of Men
+Wag the Dog
+Kramer Vs. Kramer
+
+
+Layer 0 - Code 219
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Tie That Binds, The
+Hunted, The
+Searching for Bobby Fischer
+Close Shave, A
+Believers, The
+Star Trek: The Motion Picture
+Mother
+Trouble with Harry, The
+Beloved
+Son of Frankenstein
+Insider, The
+7th Voyage of Sinbad, The
+Idolmaker, The
+
+
+Layer 0 - Code 222
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Indian in the Cupboard, The
+Vanya on 42nd Street
+Being There
+Critical Care
+Hard Core Logo
+Central Station
+Frogs for Snakes
+Stop Making Sense
+Animal House
+Flatliners
+
+
+Layer 0 - Code 223
+Occurrences: 36
+
+Representative movies:
+------------------------------
+Bed of Roses
+Screamers
+Angels and Insects
+Exotica
+Aristocats, The
+Diabolique
+Kim
+My Fair Lady
+Women, The
+Foreign Correspondent
+Mark of Zorro, The
+Algiers
+Set It Off
+Trees Lounge
+Harold and Maude
+Diva
+Cyrano de Bergerac
+Under Siege
+Scream
+Guantanamera
+
+
+Layer 0 - Code 224
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Nightmare on Elm Street 4: The Dream Master, A
+Gloria
+Tales of Terror
+Bedrooms & Hallways
+Magnolia
+Quatermass II
+
+
+Layer 0 - Code 225
+Occurrences: 25
+
+Representative movies:
+------------------------------
+Cry, the Beloved Country
+NeverEnding Story III, The
+From the Journals of Jean Seberg
+Quest, The
+'Til There Was You
+Winnie the Pooh and the Blustery Day
+Three Caballeros, The
+Long Kiss Goodnight, The
+Old Man and the Sea, The
+Bridge on the River Kwai, The
+Star Trek VI: The Undiscovered Country
+Dream With the Fishes
+Tomorrow Never Dies
+Back to the Future Part III
+Honey, I Blew Up the Kid
+Karate Kid III, The
+Haunting, The
+Mummy's Curse, The
+Haunting, The
+Soldier's Story, A
+
+
+Layer 0 - Code 227
+Occurrences: 38
+
+Representative movies:
+------------------------------
+American President, The
+Crossing Guard, The
+Browning Version, The
+Nobody's Fool
+Virtuosity
+Remains of the Day, The
+World of Apu, The
+Gay Divorcee, The
+Notorious
+Beautiful Thing
+Faust
+Paths of Glory
+Grifters, The
+Seventh Seal, The
+Ben-Hur
+Henry Fool
+All the King's Men
+Incredible Journey, The
+Return to Paradise
+In Dreams
+
+
+Layer 0 - Code 229
+Occurrences: 24
+
+Representative movies:
+------------------------------
+Before the Rain
+Forget Paris
+Vie est belle, La
+Quiet Man, The
+Message to Love: The Isle of Wight Festival
+Incognito
+Godfather: Part III, The
+Young and Innocent
+Nothing in Common
+Mummy's Tomb, The
+It Conquered the World
+Never Talk to Strangers
+Mumford
+White Men Can't Jump
+Gun Shy
+Taking of Pelham One Two Three, The
+Volunteers
+Something for Everyone
+Dying Young
+Mystery Train
+
+
+Layer 0 - Code 230
+Occurrences: 21
+
+Representative movies:
+------------------------------
+Pyromaniac's Love Story, A
+Colonel Chabert, Le
+Fear, The
+Getting Even with Dad
+Arsenic and Old Lace
+In Love and War
+Horse Whisperer, The
+Leading Man, The
+Kissing a Fool
+Jerk, The
+Rich and Strange
+My Name Is Joe
+Red Violin, The
+Jakob the Liar
+Terrorist, The
+Postman Always Rings Twice, The
+28 Days
+Slipper and the Rose, The
+Running Man, The
+Tic Code, The
+
+
+Layer 0 - Code 231
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Getaway, The
+Ed
+Best Years of Our Lives, The
+Other Sister, The
+Barry Lyndon
+Limey, The
+Hollywood Knights, The
+
+
+Layer 0 - Code 232
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Interview with the Vampire
+Secret Garden, The
+Sound of Music, The
+City of Industry
+Hanging Garden, The
+Children of Heaven, The
+Dreamlife of Angels, The
+Pelican Brief, The
+
+
+Layer 0 - Code 233
+Occurrences: 14
+
+Representative movies:
+------------------------------
+City of Lost Children, The
+Mighty Aphrodite
+Scarlet Letter, The
+Jungle Book, The
+Scarlet Letter, The
+Angel Baby
+Love! Valour! Compassion!
+Kiss the Girls
+Borrowers, The
+Mask of Zorro, The
+Jungle Book, The
+Queens Logic
+Heart and Souls
+Phantom of the Opera, The
+
+
+Layer 0 - Code 234
+Occurrences: 25
+
+Representative movies:
+------------------------------
+Crooklyn
+Scout, The
+Dear Diary
+Stonewall
+Adventures of Robin Hood, The
+Santa with Muscles
+Tango Lesson, The
+3 Ninjas: High Noon On Mega Mountain
+Meet the Deedles
+Friday the 13th Part VI: Jason Lives
+Blackbeard's Ghost
+Honey, I Shrunk the Kids
+Song of the South
+Six-String Samurai
+Antz
+Waking Ned Devine
+You've Got Mail
+Little Nemo: Adventures in Slumberland
+Mystery, Alaska
+Three to Tango
+
+
+Layer 0 - Code 235
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Mute Witness
+I'm Not Rappaport
+Child's Play 3
+About Last Night...
+Silent Fall
+
+
+Layer 0 - Code 237
+Occurrences: 28
+
+Representative movies:
+------------------------------
+Persuasion
+Juror, The
+Jury Duty
+Robocop 3
+Trial by Jury
+Great Day in Harlem, A
+Fan, The
+Time to Kill, A
+Lawnmower Man, The
+Wrong Trousers, The
+American Dream
+Turbo: A Power Rangers Movie
+Fathers' Day
+Hurricane Streets
+Great Ziegfeld, The
+Prom Night
+Men Don't Leave
+Police Academy 3: Back in Training
+Affliction
+Logan's Run
+
+
+Layer 0 - Code 239
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Jade
+Carrie
+Zeus and Roxanne
+Hard Rain
+Irma la Douce
+Backdraft
+Auntie Mame
+
+
+Layer 0 - Code 240
+Occurrences: 38
+
+Representative movies:
+------------------------------
+Tom and Huck
+Confessional, The
+Strange Days
+Babysitter, The
+Highlander III: The Sorcerer
+Cabin Boy
+Englishman Who Went Up a Hill, But Came Down a Mountain, The
+War Room, The
+Snow White and the Seven Dwarfs
+Primal Fear
+Kids in the Hall: Brain Candy
+Pather Panchali
+Joe's Apartment
+2001: A Space Odyssey
+Spellbound
+Swiss Family Robinson
+English Patient, The
+Boat, The
+Fantasia
+Inventing the Abbotts
+
+
+Layer 0 - Code 241
+Occurrences: 35
+
+Representative movies:
+------------------------------
+Cutthroat Island
+Jeffrey
+Tom & Viv
+Fugitive, The
+Geronimo: An American Legend
+Mr. Jones
+Kaspar Hauser
+Davy Crockett, King of the Wild Frontier
+Willy Wonka and the Chocolate Factory
+Monty Python's Life of Brian
+Amadeus
+Indiana Jones and the Last Crusade
+Real Genius
+Lost World: Jurassic Park, The
+Peacemaker, The
+Apostle, The
+Postman, The
+Quest for Camelot
+Land Girls, The
+Tender Mercies
+
+
+Layer 0 - Code 243
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Smoke
+Bride of Chucky
+Ruthless People
+Go
+Face in the Crowd, A
+
+
+Layer 0 - Code 250
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Journey of August King, The
+My Life and Times With Antonin Artaud
+Return of the Pink Panther, The
+Adrenalin: Fear the Rush
+Return of the Texas Chainsaw Massacre, The
+Escape from the Planet of the Apes
+Austin Powers: The Spy Who Shagged Me
+Little Shop of Horrors
+Idiots, The
+
+
+Layer 0 - Code 252
+Occurrences: 15
+
+Representative movies:
+------------------------------
+Anne Frank Remembered
+Party Girl
+Mr. Wonderful
+Feeling Minnesota
+Prisoner of the Mountains
+Sweet Hereafter, The
+Flight of the Navigator
+Squanto: A Warrior's Tale
+Hero
+Trick
+Grandfather, The
+McCabe & Mrs. Miller
+Hook
+Freedom for Us
+Abominable Snowman, The
+
+
+Layer 0 - Code 253
+Occurrences: 33
+
+Representative movies:
+------------------------------
+Dead Man Walking
+Eye for an Eye
+Broken Arrow
+Judge Dredd
+Nadja
+Judgment Night
+Schindler's List
+Striking Distance
+Nelly & Monsieur Arnaud
+Night of the Living Dead
+Michael Collins
+Dirty Dancing
+Raw Deal
+GoodFellas
+M*A*S*H
+Nosferatu
+Marked for Death
+Traveller
+Con Air
+One Night Stand
+
+
+
+================================================================================
+LAYER 1
+================================================================================
+
+Layer 1 - Code 0
+Occurrences: 20
+
+Representative movies:
+------------------------------
+Spellbound
+Cérémonie, La
+Character
+Midnight Cowboy
+Metropolis
+Lolita
+Celebrity
+Escape from the Planet of the Apes
+Haunting, The
+Children of the Damned
+Hideous Kinky
+It Conquered the World
+Haunting, The
+Lolita
+Color Purple, The
+Very Thought of You, The
+Romance
+Coma
+Those Who Love Me Can Take the Train
+Long Walk Home, The
+
+
+Layer 1 - Code 7
+Occurrences: 59
+
+Representative movies:
+------------------------------
+Big Green, The
+Indian in the Cupboard, The
+White Balloon, The
+Kiss of Death
+Richie Rich
+Cowboy Way, The
+Getaway, The
+New Age, The
+Aparajito
+Maya Lin: A Strong Clear Vision
+Daylight
+Celestial Clockwork
+Rebecca
+Top Hat
+My Man Godfrey
+Bringing Up Baby
+Glory Daze
+Enchanted April
+Diva
+High Noon
+
+
+Layer 1 - Code 8
+Occurrences: 86
+
+Representative movies:
+------------------------------
+Leaving Las Vegas
+Dead Presidents
+Vampire in Brooklyn
+Taxi Driver
+Down Periscope
+From the Journals of Jean Seberg
+Before Sunrise
+Boys on the Side
+Nobody's Fool
+Backbeat
+Bitter Moon
+Mrs. Parker and the Vicious Circle
+Paper, The
+Federal Hill
+Body Snatchers
+Tombstone
+Bhaji on the Beach
+Cemetery Man
+All About Eve
+Lost Horizon
+
+
+Layer 1 - Code 9
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Antonia's Line
+Roommates
+Message to Love: The Isle of Wight Festival
+Pest, The
+Without Limits
+If....
+Sommersby
+Return with Honor
+Volunteers
+
+
+Layer 1 - Code 10
+Occurrences: 22
+
+Representative movies:
+------------------------------
+Devil in a Blue Dress
+Bad Girls
+Blue Sky
+Even Cowgirls Get the Blues
+Basquiat
+Apple Dumpling Gang, The
+Children of the Corn IV: The Gathering
+Ponette
+Dream With the Fishes
+Soul Food
+Cousin Bette
+Apple Dumpling Gang Rides Again, The
+Blue Velvet
+Peter Pan
+See the Sea
+Frances
+Hurricane, The
+Supernova
+Woman in the Dunes
+Captain Horatio Hornblower
+
+
+Layer 1 - Code 11
+Occurrences: 56
+
+Representative movies:
+------------------------------
+Assassins
+Dead Man Walking
+Mr. Wrong
+Nine Months
+Professional, The
+Black Beauty
+Good Man in Africa, A
+Heavy Metal
+Kim
+Fan, The
+Carpool
+Gone with the Wind
+Sunset Blvd.
+Dirty Dancing
+Howling, The
+Grosse Fatigue
+Touch of Evil
+Big Sleep, The
+Devil's Own, The
+Men in Black
+
+
+Layer 1 - Code 12
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Secret of Roan Inish, The
+Swiss Family Robinson
+Rosetta
+7th Voyage of Sinbad, The
+Third Miracle, The
+Searchers, The
+
+
+Layer 1 - Code 21
+Occurrences: 8
+
+Representative movies:
+------------------------------
+If Lucy Fell
+Pollyanna
+Secret of NIMH, The
+Prince of Egypt, The
+Boy Who Could Fly, The
+Thumbelina
+Seven Chances
+Road to El Dorado, The
+
+
+Layer 1 - Code 22
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Prophecy, The
+Inkwell, The
+Slingshot, The
+Dream for an Insomniac
+Conformist, The
+Private School
+
+
+Layer 1 - Code 24
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Beverly Hills Cop III
+Wild Bunch, The
+Until the End of the World
+Volcano
+Love and Death on Long Island
+Friday the 13th Part VII: The New Blood
+Swing Kids
+Lodger, The
+Children of the Corn III
+Cutting Edge, The
+Anchors Aweigh
+Beautiful
+
+
+Layer 1 - Code 25
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Black Sheep
+Fear of a Black Hat
+Solo
+Twister
+Careful
+Spawn
+Bent
+Sabotage
+Pet Sematary
+
+
+Layer 1 - Code 26
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Wolf
+Vie est belle, La
+Kansas City
+Loss of Sexual Innocence, The
+Chill Factor
+Three Ages, The
+
+
+Layer 1 - Code 29
+Occurrences: 25
+
+Representative movies:
+------------------------------
+Toy Story
+Twelve Monkeys
+Happy Gilmore
+Pulp Fiction
+Wonderful, Horrible Life of Leni Riefenstahl, The
+Thin Line Between Love and Hate, A
+Time to Kill, A
+Mr. Smith Goes to Washington
+Of Human Bondage
+That Thing You Do!
+Return of Martin Guerre, The
+Double Life of Veronique, The
+Raise the Red Lantern
+Austin Powers: International Man of Mystery
+Greatest Show on Earth, The
+American Tail, An
+Young and Innocent
+Let's Talk About Sex
+Idle Hands
+Eternity and a Day
+
+
+Layer 1 - Code 33
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Glory
+Butcher's Wife, The
+Curse of Frankenstein, The
+End of the Affair, The
+Killing of Sister George, The
+
+
+Layer 1 - Code 35
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Clerks
+Underneath, The
+Rebel Without a Cause
+Henry: Portrait of a Serial Killer
+Crush, The
+
+
+Layer 1 - Code 39
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Lawnmower Man 2: Beyond Cyberspace
+Addiction, The
+Beverly Hillbillies, The
+Primal Fear
+Trust
+Blood For Dracula
+Pet Sematary II
+Son of Dracula
+Bachelor, The
+Man from Laramie, The
+Interiors
+Steal This Movie!
+
+
+Layer 1 - Code 40
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Goofy Movie, A
+Celluloid Closet, The
+Thousand Acres, A
+Insomnia
+Big Chill, The
+American Movie
+
+
+Layer 1 - Code 41
+Occurrences: 15
+
+Representative movies:
+------------------------------
+Two if by Sea
+Land and Freedom
+Penny Serenade
+Great Escape, The
+Paulie
+D2: The Mighty Ducks
+Pretty in Pink
+Mighty Joe Young
+Mighty Joe Young
+Radio Days
+Bridge at Remagen, The
+Frequency
+Gold Rush, The
+Sunshine
+Golden Voyage of Sinbad, The
+
+
+Layer 1 - Code 45
+Occurrences: 181
+
+Representative movies:
+------------------------------
+Jumanji
+Cry, the Beloved Country
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+Last Summer in the Hamptons
+Dunston Checks In
+Bottle Rocket
+Chungking Express
+Apollo 13
+Crimson Tide
+Johnny Mnemonic
+Something to Talk About
+Don Juan DeMarco
+Just Cause
+Kid in King Arthur's Court, A
+Only You
+Clear and Present Danger
+Corrina, Corrina
+Crow, The
+Jungle Book, The
+In the Mouth of Madness
+
+
+Layer 1 - Code 46
+Occurrences: 39
+
+Representative movies:
+------------------------------
+Umbrellas of Cherbourg, The
+Legends of the Fall
+Sum of Us, The
+Three Musketeers, The
+Land Before Time III: The Time of the Great Giving
+For Whom the Bell Tolls
+Meet Me in St. Louis
+D3: The Mighty Ducks
+Three Caballeros, The
+Sound of Music, The
+To Kill a Mockingbird
+Sting, The
+Romy and Michele's High School Reunion
+Children of the Revolution
+187
+Gattaca
+Time Tracers
+Palmetto
+Two Girls and a Guy
+Last Emperor, The
+
+
+Layer 1 - Code 50
+Occurrences: 11
+
+Representative movies:
+------------------------------
+Sudden Death
+Coldblooded
+Rear Window
+Duck Soup
+Jaws 2
+Howard the Duck
+Never Been Kissed
+Drowning Mona
+Carnosaur 2
+Shanghai Noon
+Starman
+
+
+Layer 1 - Code 52
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Age of Innocence, The
+Stranger in the House
+Kid, The
+Champ, The
+Kid, The
+
+
+Layer 1 - Code 58
+Occurrences: 24
+
+Representative movies:
+------------------------------
+Dangerous Minds
+Strange Days
+Village of the Damned
+Schindler's List
+Sophie's Choice
+Cats Don't Dance
+Event Horizon
+Truman Show, The
+Big Lebowski, The
+Doctor Dolittle
+Plan 9 from Outer Space
+Doctor Dolittle
+200 Cigarettes
+Conquest of the Planet of the Apes
+Village of the Damned
+Bedroom Window, The
+Cat's Eye
+Suburbans, The
+Stanley & Iris
+American Psycho
+
+
+Layer 1 - Code 59
+Occurrences: 23
+
+Representative movies:
+------------------------------
+American President, The
+Babysitter, The
+Three Colors: Blue
+Farewell My Concubine
+Widows' Peak
+Program, The
+Blade Runner
+Haunted World of Edward D. Wood Jr., The
+Transformers: The Movie, The
+Dead Poets Society
+Graduate, The
+I Can't Sleep
+My Fellow Americans
+In Love and War
+Last of the Mohicans, The
+Kissing a Fool
+NeverEnding Story, The
+Wrongfully Accused
+Cruise, The
+Pit and the Pendulum
+
+
+Layer 1 - Code 60
+Occurrences: 88
+
+Representative movies:
+------------------------------
+When Night Is Falling
+Big Bully
+Flirting With Disaster
+Awfully Big Adventure, An
+Mallrats
+Enfer, L'
+Wes Craven's New Nightmare
+Bad Company
+Being Human
+Free Willy
+Malice
+Perfect World, A
+Cronos
+Spanking the Monkey
+It's My Party
+Force of Evil
+Kazaam
+Escape from L.A.
+Charade
+Affair to Remember, An
+
+
+Layer 1 - Code 62
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Flintstones, The
+Heaven's Prisoners
+Crucible, The
+Apostle, The
+Lifeforce
+Only Angels Have Wings
+Little Big Man
+Kagemusha
+
+
+Layer 1 - Code 63
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Flower of My Secret, The
+Postman, The
+Horse Whisperer, The
+Prince Valiant
+Trouble with Harry, The
+In Dreams
+Airport '77
+Slipper and the Rose, The
+
+
+Layer 1 - Code 65
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Good Will Hunting
+Pope of Greenwich Village, The
+Late August, Early September
+Holiday Inn
+Let's Get Harry
+
+
+Layer 1 - Code 69
+Occurrences: 19
+
+Representative movies:
+------------------------------
+Seven
+Belle de jour
+Great Day in Harlem, A
+Switchblade Sisters
+Funeral, The
+Army of Darkness
+8 Heads in a Duffel Bag
+Polish Wedding
+Police Academy 6: City Under Siege
+Romancing the Stone
+Earthquake
+Killer's Kiss
+Queens Logic
+Music of the Heart
+Scrooged
+Birdy
+She's Gotta Have It
+Predator
+Coyote Ugly
+
+
+Layer 1 - Code 74
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Kingpin
+Citizen Kane
+Angel on My Shoulder
+Dear God
+Akira
+Flubber
+King Kong vs. Godzilla
+Tarzan
+Against All Odds
+
+
+Layer 1 - Code 78
+Occurrences: 42
+
+Representative movies:
+------------------------------
+Tommy Boy
+Safe Passage
+Hard Target
+In the Army Now
+In the Line of Fire
+Surviving the Game
+Quest, The
+Angels in the Outfield
+Ridicule
+McHale's Navy
+Out to Sea
+Peacemaker, The
+Rainmaker, The
+Critical Care
+Hard Rain
+Spanish Prisoner, The
+Saving Private Ryan
+Tex
+Rope
+Torn Curtain
+
+
+Layer 1 - Code 80
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Farinelli: il castrato
+Timecop
+Mr. Wonderful
+Robert A. Heinlein's The Puppet Masters
+Witness
+Fiendish Plot of Dr. Fu Manchu, The
+Sid and Nancy
+Mr. Death: The Rise and Fall of Fred A. Leuchter Jr.
+Virgin Suicides, The
+Decline of Western Civilization, The
+
+
+Layer 1 - Code 83
+Occurrences: 21
+
+Representative movies:
+------------------------------
+Crossing Guard, The
+Mighty Morphin Power Rangers: The Movie
+Star Wars: Episode IV - A New Hope
+Three Colors: Red
+Three Colors: White
+While You Were Sleeping
+Star Wars: Episode V - The Empire Strikes Back
+Mars Attacks!
+Nil By Mouth
+Ever After: A Cinderella Story
+Merry War, A
+Thin Red Line, The
+It Came from Outer Space
+Stiff Upper Lips
+Masque of the Red Death, The
+Grandfather, The
+Awakenings
+Star Is Born, A
+Red Dawn
+Woman of Paris, A
+
+
+Layer 1 - Code 84
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Crying Game, The
+Nightmare on Elm Street, A
+Purple Rose of Cairo, The
+Night Porter, The
+Gate, The
+Out-of-Towners, The
+Dinner Game, The
+Prince of Tides, The
+
+
+Layer 1 - Code 85
+Occurrences: 16
+
+Representative movies:
+------------------------------
+Shawshank Redemption, The
+Speed
+In the Realm of the Senses
+Walking and Talking
+Long Kiss Goodnight, The
+Woo
+Great Mouse Detective, The
+Mighty Ducks, The
+Mod Squad, The
+Saragossa Manuscript, The
+House of Dracula
+Universal Soldier: The Return
+Messenger: The Story of Joan of Arc, The
+Conceiving Ada
+Gossip
+Whipped
+
+
+Layer 1 - Code 87
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Star Maker, The
+James and the Giant Peach
+Outlaw, The
+Indiana Jones and the Last Crusade
+Six Days Seven Nights
+Computer Wore Tennis Shoes, The
+Sleeping Beauty
+Swept Away
+Adventures of Buckaroo Bonzai Across the 8th Dimension, The
+Sea Wolves, The
+
+
+Layer 1 - Code 88
+Occurrences: 26
+
+Representative movies:
+------------------------------
+Money Train
+How to Make an American Quilt
+Kids
+Party Girl
+Houseguest
+Milk Money
+Strawberry and Chocolate
+Double Happiness
+Fargo
+My Favorite Season
+Cold Fever
+Whole Wide World, The
+Game, The
+Deceiver
+Tom Jones
+Gremlins
+Billy's Hollywood Screen Kiss
+Color of Money, The
+Simply Irresistible
+Midsummer Night's Dream, A
+
+
+Layer 1 - Code 90
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Dead Man
+Bananas
+Meet the Deedles
+Pi
+My Blue Heaven
+
+
+Layer 1 - Code 91
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Hideaway
+Celtic Pride
+Deer Hunter, The
+Washington Square
+Red Corner
+Lake Placid
+Random Hearts
+Liberty Heights
+Under Suspicion
+
+
+Layer 1 - Code 92
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Mary Shelley's Frankenstein
+Firm, The
+Foxfire
+Bulletproof
+Young Frankenstein
+Man for All Seasons, A
+Edward Scissorhands
+Frankenstein
+Robin Hood
+'Night Mother
+Draughtsman's Contract, The
+Sister Act
+Hoosiers
+
+
+Layer 1 - Code 93
+Occurrences: 23
+
+Representative movies:
+------------------------------
+Heidi Fleiss: Hollywood Madam
+Frankie Starlight
+Circle of Friends
+What's Eating Gilbert Grape
+River Wild, The
+Oliver & Company
+Striptease
+Gaslight
+My Life as a Dog
+Love and Other Catastrophes
+Life Less Ordinary, A
+Great Expectations
+Lost Weekend, The
+54
+Life Is Beautiful
+I'll Be Home For Christmas
+Celebration, The
+Papillon
+Love Is a Many-Splendored Thing
+Love and Basketball
+
+
+Layer 1 - Code 97
+Occurrences: 16
+
+Representative movies:
+------------------------------
+Heat
+Phantom, The
+Grass Harp, The
+Escape to Witch Mountain
+Prisoner of the Mountains
+Commandments
+Mr. Magoo
+Castle, The
+Outside Providence
+Deliverance
+Flashdance
+Encino Man
+Raisin in the Sun, A
+Funny Bones
+Hidden, The
+Cutter's Way
+
+
+Layer 1 - Code 100
+Occurrences: 65
+
+Representative movies:
+------------------------------
+Balto
+Journey of August King, The
+Fluke
+Jerky Boys, The
+Little Women
+Mask, The
+Much Ado About Nothing
+Little Big League
+Kids in the Hall: Brain Candy
+Boys
+Truth About Cats & Dogs, The
+Lone Star
+My Fair Lady
+Reluctant Debutante, The
+Parent Trap, The
+Fox and the Hound, The
+Victor/Victoria
+Return of the Pink Panther, The
+Withnail and I
+Shining, The
+
+
+Layer 1 - Code 102
+Occurrences: 231
+
+Representative movies:
+------------------------------
+Four Rooms
+Get Shorty
+Now and Then
+Kids of the Round Table
+Home for the Holidays
+French Twist
+Bed of Roses
+Things to Do in Denver when You're Dead
+Nick of Time
+Mary Reilly
+First Knight
+Moonlight and Valentino
+Reckless
+Burnt By the Sun
+Far From Home: The Adventures of Yellow Dog
+I.Q.
+Ladybird Ladybird
+Love Affair
+New Jersey Drive
+Poison Ivy II
+
+
+Layer 1 - Code 103
+Occurrences: 23
+
+Representative movies:
+------------------------------
+Young Poisoner's Handbook, The
+White Man's Burden
+Mixed Nuts
+Clean Slate
+Clean Slate
+Maybe, Maybe Not
+Bogus
+Shadow Conspiracy
+Innocents, The
+Cool Hand Luke
+Butch Cassidy and the Sundance Kid
+Assignment, The
+For Richer or Poorer
+Go Now
+Urban Legend
+Strangeland
+Open Your Eyes
+Blair Witch Project, The
+Operation Condor
+Fight Club
+
+
+Layer 1 - Code 104
+Occurrences: 77
+
+Representative movies:
+------------------------------
+Cutthroat Island
+It Takes Two
+Once Upon a Time... When We Were Colored
+Braveheart
+Before and After
+Boys of St. Vincent, The
+Cabin Boy
+Dave
+I'll Do Anything
+Last Action Hero
+All Dogs Go to Heaven 2
+Dragonheart
+Alphaville
+Gold Diggers: The Secret of Bear Mountain
+Very Brady Sequel, A
+Meet John Doe
+Alice in Wonderland
+Hear My Song
+Once Upon a Time in the West
+Henry V
+
+
+Layer 1 - Code 105
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Next Karate Kid, The
+Godfather, The
+Robin Hood: Prince of Thieves
+Eighth Day, The
+Bodyguard, The
+
+
+Layer 1 - Code 106
+Occurrences: 11
+
+Representative movies:
+------------------------------
+To Live
+GoodFellas
+Female Perversions
+Telling Lies in America
+Working Girl
+Allan Quartermain and the Lost City of Gold
+Acid House, The
+Commitments, The
+Map of the World, A
+Fast Times at Ridgemont High
+Hot Spot, The
+
+
+Layer 1 - Code 108
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Some Folks Call It a Sling Blade
+'Til There Was You
+Gridlock'd
+NeverEnding Story II: The Next Chapter, The
+Analyze This
+Night of the Comet
+Boys, The
+Tales of Terror
+Drive Me Crazy
+Boys from Brazil, The
+
+
+Layer 1 - Code 111
+Occurrences: 22
+
+Representative movies:
+------------------------------
+Blue in the Face
+Shadow, The
+Thirty-Two Short Films About Glenn Gould
+Big Squeeze, The
+Big Blue, The
+Hugo Pool
+Blues Brothers 2000
+Wild Man Blues
+Little Boy Blue
+Children of the Corn
+Wilde
+My Son the Fanatic
+Big
+High Plains Drifter
+Bear, The
+Born American
+Guess Who's Coming to Dinner
+Big Kahuna, The
+G. I. Blues
+American Pop
+
+
+Layer 1 - Code 112
+Occurrences: 32
+
+Representative movies:
+------------------------------
+Father of the Bride Part II
+Dumb & Dumber
+Major Payne
+Man of the House
+Tom & Viv
+Higher Learning
+City Slickers II: The Legend of Curly's Gold
+Welcome to the Dollhouse
+Fled
+Tales from the Crypt Presents: Bordello of Blood
+Walk in the Sun, A
+Raw Deal
+Tie Me Up! Tie Me Down!
+Waiting for Guffman
+Playing God
+Ayn Rand: A Sense of Life
+Mercury Rising
+Doctor Zhivago
+Thing, The
+Producers, The
+
+
+Layer 1 - Code 113
+Occurrences: 19
+
+Representative movies:
+------------------------------
+Gordy
+Romper Stomper
+Trainspotting
+Basic Instinct
+Boat, The
+Turbulence
+Cement Garden, The
+Big One, The
+Dancer, Texas Pop. 81
+High Art
+Soldier
+Belly
+Endurance
+Yards, The
+Magnolia
+Inferno
+Blow-Out
+Perfect Storm, The
+Bootmen
+
+
+Layer 1 - Code 117
+Occurrences: 31
+
+Representative movies:
+------------------------------
+Gumby: The Movie
+Santa Clause, The
+Colonel Chabert, Le
+Addams Family Values
+Searching for Bobby Fischer
+Thinner
+Wild Reeds
+Monty Python's Life of Brian
+Nosferatu a Venezia
+Hollow Reed
+I Love You, I Love You Not
+Mr. Jealousy
+You Can't Take It With You
+Gremlins 2: The New Batch
+Muppet Christmas Carol, The
+Navigator: A Mediaeval Odyssey, The
+Why Do Fools Fall In Love?
+Blast from the Past
+8MM
+Mummy's Curse, The
+
+
+Layer 1 - Code 119
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Like Water for Chocolate
+What's Love Got to Do with It?
+Flirt
+Golden Earrings
+Autumn Tale, An
+Moonstruck
+My Dog Skip
+Scent of a Woman
+
+
+Layer 1 - Code 121
+Occurrences: 30
+
+Representative movies:
+------------------------------
+Pocahontas
+Fair Game
+Jupiter's Wife
+Net, The
+North
+Ref, The
+Pallbearer, The
+Matilda
+Thin Man, The
+Infinity
+Freeway
+Doors, The
+Stand by Me
+Phantoms
+Firestorm
+Everest
+Newton Boys, The
+Opposite of Sex, The
+Cimarron
+Rocky
+
+
+Layer 1 - Code 126
+Occurrences: 39
+
+Representative movies:
+------------------------------
+Sabrina
+Exotica
+Fugitive, The
+Scout, The
+Sleepless in Seattle
+Sabrina
+Ghost and Mrs. Muir, The
+Christmas Carol, A
+Bob Roberts
+Cinema Paradiso
+Cook the Thief His Wife & Her Lover, The
+Amityville Curse, The
+Hamlet
+Portrait of a Lady, The
+Hotel de Love
+Alien: Resurrection
+Still Breathing
+Hamlet
+Friday the 13th Part VI: Jason Lives
+Mask of Zorro, The
+
+
+Layer 1 - Code 129
+Occurrences: 24
+
+Representative movies:
+------------------------------
+Mr. Holland's Opus
+White Squall
+Basketball Diaries, The
+Fresh
+I Shot Andy Warhol
+Story of Xinghua, The
+101 Dalmatians
+Kolya
+Turbo: A Power Rangers Movie
+Tetsuo II: Body Hammer
+101 Dalmatians
+Return to Oz
+Tron
+I Confess
+Last Days, The
+Xiu Xiu: The Sent-Down Girl
+Problem Child 2
+Longest Day, The
+Hitch-Hiker, The
+Presidio, The
+
+
+Layer 1 - Code 132
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Pushing Hands
+E.T. the Extra-Terrestrial
+Three Amigos!
+New Rose Hotel
+Fitzcarraldo
+For All Mankind
+
+
+Layer 1 - Code 133
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Mr. Jones
+Dances with Wolves
+Silence of the Lambs, The
+Jane Eyre
+Pather Panchali
+Philadelphia Story, The
+Cyrano de Bergerac
+Wrong Man, The
+Star Trek: Insurrection
+House on Haunted Hill, The
+Bone Collector, The
+Maurice
+What Ever Happened to Baby Jane?
+Breathless
+
+
+Layer 1 - Code 134
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Faces
+Grand Canyon
+Clan of the Cave Bear, The
+Firewalker
+Diamonds
+
+
+Layer 1 - Code 135
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Powder
+Faithful
+Giant
+Corruptor, The
+Ghostbusters
+Teaching Mrs. Tingle
+Dinosaur
+Brother from Another Planet, The
+
+
+Layer 1 - Code 137
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Crooklyn
+Blink
+Cinderella
+Cop Land
+Senseless
+Whatever
+Suspicion
+Prancer
+Superman
+Great Santini, The
+Montana
+Whole Nine Yards, The
+
+
+Layer 1 - Code 138
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Miami Rhapsody
+Radioland Murders
+Serial Mom
+Dear Jesse
+Toys
+Parasite
+In Too Deep
+Girl, Interrupted
+
+
+Layer 1 - Code 140
+Occurrences: 19
+
+Representative movies:
+------------------------------
+Cliffhanger
+Chasers
+When Harry Met Sally...
+Raising Arizona
+Hoodlum
+Wings of the Dove, The
+Mutiny on the Bounty
+Newsies
+Rescuers, The
+Night at the Roxbury, A
+Velvet Goldmine
+Ideal Husband, An
+Bowfinger
+Hard Day's Night, A
+Risky Business
+Funhouse, The
+McCabe & Mrs. Miller
+Empire Records
+Committed
+
+
+Layer 1 - Code 141
+Occurrences: 25
+
+Representative movies:
+------------------------------
+Grumpier Old Men
+Exit to Eden
+Great White Hype, The
+Old Yeller
+Secrets & Lies
+On Golden Pond
+Real Genius
+Beavis and Butt-head Do America
+Excess Baggage
+In God's Hands
+Great Ziegfeld, The
+St. Elmo's Fire
+Beyond the Poseidon Adventure
+Doug's 1st Movie
+Howling II: Your Sister Is a Werewolf
+Bedrooms & Hallways
+Life and Times of Hank Greenberg, The
+Guys and Dolls
+Battlefield Earth
+Fabulous Baker Boys, The
+
+
+Layer 1 - Code 144
+Occurrences: 24
+
+Representative movies:
+------------------------------
+Castle Freak
+Family Thing, A
+My Favorite Year
+Six of a Kind
+Somewhere in Time
+Being There
+Second Jungle Book: Mowgli & Baloo, The
+Friday the 13th Part V: A New Beginning
+Halloween: H20
+Digging to China
+Emerald Forest, The
+Walk on the Moon, A
+Adventures of Milo and Otis, The
+Barefoot in the Park
+Plunkett & MaCleane
+Man on the Moon
+Smiling Fish and Goat on Fire
+On Her Majesty's Secret Service
+In Old California
+Cleo From 5 to 7
+
+
+Layer 1 - Code 147
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Beautiful Girls
+Disclosure
+Surviving Picasso
+Cat People
+Country
+
+
+Layer 1 - Code 149
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Friday
+Walk in the Clouds, A
+Hudsucker Proxy, The
+Phenomenon
+To Catch a Thief
+Fish Called Wanda, A
+American Dream
+Trip to Bountiful, The
+Impostors, The
+Alice and Martin
+
+
+Layer 1 - Code 150
+Occurrences: 14
+
+Representative movies:
+------------------------------
+City of Lost Children, The
+Little Princess, A
+Fearless
+Kalifornia
+They Made Me a Criminal
+To Gillian on Her 37th Birthday
+Jerry Maguire
+Kiss the Girls
+Marty
+Young Sherlock Holmes
+War of the Worlds, The
+Mosquito Coast, The
+Three to Tango
+Idiots, The
+
+
+Layer 1 - Code 152
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Remains of the Day, The
+World of Apu, The
+Paths of Glory
+Honey, I Shrunk the Kids
+Santa Claus: The Movie
+Fly, The
+Fly, The
+Run Silent, Run Deep
+Jesus' Son
+
+
+Layer 1 - Code 156
+Occurrences: 88
+
+Representative movies:
+------------------------------
+Dracula: Dead and Loving It
+Mortal Kombat
+City Hall
+Congo
+Crumb
+Mad Love
+My Crazy Life
+Once Were Warriors
+Bullets Over Broadway
+You So Crazy
+Barcelona
+Coneheads
+Flesh and Bone
+Guilty as Sin
+Killer
+Ghost
+Window to Paris
+Underground
+Stealing Beauty
+Casablanca
+
+
+Layer 1 - Code 158
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Gang Related
+King of New York
+Dancemaker
+Metroland
+Rough Night in Jericho
+Turtle Diary
+Other Side of Sunday, The
+
+
+Layer 1 - Code 162
+Occurrences: 103
+
+Representative movies:
+------------------------------
+Copycat
+Nico Icon
+Shopping
+Anne Frank Remembered
+Amateur
+Safe
+Wild Bill
+Before the Rain
+Hoop Dreams
+My Family
+Priest
+I Love Trouble
+Red Rock West
+Blown Away
+Blue Chips
+Go Fish
+Jurassic Park
+Flipper
+Last Dance
+Heavy
+
+
+Layer 1 - Code 165
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Madness of King George, The
+Killing Zoe
+Arrival, The
+Third Man, The
+Designated Mourner, The
+Star Maps
+Ice Storm, The
+Krippendorf's Tribe
+'burbs, The
+At First Sight
+Summer of Sam
+Heart and Souls
+Caddyshack
+
+
+Layer 1 - Code 168
+Occurrences: 82
+
+Representative movies:
+------------------------------
+Catwalk
+Rumble in the Bronx
+Clockers
+Judge Dredd
+Nadja
+Destiny Turns on the Radio
+Shallow Grave
+Tales from the Hood
+Faster Pussycat! Kill! Kill!
+Bronx Tale, A
+No Escape
+Orlando
+Robocop 3
+Savage Nights
+Striking Distance
+Kika
+Ciao, Professore!
+Barb Wire
+Eyes Without a Face
+Tin Cup
+
+
+Layer 1 - Code 171
+Occurrences: 34
+
+Representative movies:
+------------------------------
+Across the Sea of Time
+To Die For
+Jade
+Stars Fell on Henrietta, The
+Murder in the First
+Swimming with Sharks
+Paris, France
+Aristocats, The
+Stupids, The
+She's the One
+Relic, The
+Singin' in the Rain
+Roman Holiday
+Everyone Says I Love You
+Love! Valour! Compassion!
+Nightmare on Elm Street 3: Dream Warriors, A
+Halloween III: Season of the Witch
+Goonies, The
+Herbie Goes to Monte Carlo
+Splash
+
+
+Layer 1 - Code 172
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Mighty Aphrodite
+Pyromaniac's Love Story, A
+Fear, The
+Shaggy Dog, The
+Love Serenade
+Butcher Boy, The
+Happiest Millionaire, The
+Stepmom
+Fantastic Planet, The
+Wolf Man, The
+Good Mother, The
+Romeo and Juliet
+
+
+Layer 1 - Code 173
+Occurrences: 6
+
+Representative movies:
+------------------------------
+My Life in Pink
+My Giant
+Mole People, The
+Final Conflict, The
+Snow Day
+Big Country, The
+
+
+Layer 1 - Code 179
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Usual Suspects, The
+Brothers McMullen, The
+Interview with the Vampire
+Junior
+Favor, The
+Philadelphia
+Trigger Effect, The
+Lady of Burlesque
+Anastasia
+Karate Kid, Part II, The
+Flamingo Kid, The
+Patriot, The
+Catfish in Black Bean Sauce
+Fantastic Voyage
+
+
+Layer 1 - Code 180
+Occurrences: 104
+
+Representative movies:
+------------------------------
+Casino
+From Dusk Till Dawn
+Up Close and Personal
+Birdcage, The
+Canadian Bacon
+Die Hard: With a Vengeance
+Hackers
+Love & Human Remains
+Showgirls
+Total Eclipse
+Death and the Maiden
+Forget Paris
+Natural Born Killers
+Quick and the Dead, The
+Walking Dead, The
+Reality Bites
+Boxing Helena
+Calendar Girl
+Color of Night
+Fatal Instinct
+
+
+Layer 1 - Code 181
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Desperado
+Manhattan Murder Mystery
+Mrs. Doubtfire
+Rock, The
+Murder, My Sweet
+Birds, The
+Walkabout
+Dangerous Beauty
+Rosemary's Baby
+Goodbye, Lover
+Rocky Horror Picture Show, The
+Devil Girl From Mars
+
+
+Layer 1 - Code 182
+Occurrences: 5
+
+Representative movies:
+------------------------------
+$1,000,000 Duck
+Man Who Knew Too Much, The
+Man Who Knew Too Much, The
+Snows of Kilimanjaro, The
+Urban Legends: Final Cut
+
+
+Layer 1 - Code 185
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Lamerica
+Life with Mikey
+Road to Wellville, The
+Bedknobs and Broomsticks
+Godfather: Part II, The
+Highlander
+Conspiracy Theory
+Parenthood
+House Party 2
+Pokémon the Movie 2000
+
+
+Layer 1 - Code 186
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Faust
+Artemisia
+Hanging Garden, The
+Rapture, The
+Dreamlife of Angels, The
+13th Warrior, The
+
+
+Layer 1 - Code 187
+Occurrences: 20
+
+Representative movies:
+------------------------------
+Angels and Insects
+Eat Drink Man Woman
+Client, The
+Chamber, The
+Bitter Sugar
+Some Kind of Wonderful
+Tango Lesson, The
+Song of the South
+Dancing at Lughnasa
+Waking Ned Devine
+Soul Man
+Invasion of the Body Snatchers
+Cobra
+Mystery, Alaska
+Fistful of Dollars, A
+Re-Animator
+Sandpiper, The
+Arthur
+Blazing Saddles
+Benji the Hunted
+
+
+Layer 1 - Code 188
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Misérables, Les
+Sex, Lies, and Videotape
+Misérables, Les
+Disturbing Behavior
+Matrix, The
+Muse, The
+Mating Habits of the Earthbound Human, The
+Misery
+Watcher, The
+
+
+Layer 1 - Code 192
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Eye for an Eye
+Hocus Pocus
+Creature Comforts
+Good Earth, The
+Soapdish
+
+
+Layer 1 - Code 194
+Occurrences: 46
+
+Representative movies:
+------------------------------
+Feast of July
+Glass Shield, The
+Miracle on 34th Street
+Swan Princess, The
+What Happened Was...
+Snow White and the Seven Dwarfs
+Denise Calls Up
+Purple Noon
+Delta of Venus
+Stonewall
+Wife, The
+Candidate, The
+Lawrence of Arabia
+Bride of Frankenstein
+Stag
+Bean
+Sweet Hereafter, The
+Star Kid
+Man in the Iron Mask, The
+Primary Colors
+
+
+Layer 1 - Code 195
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Adventures of Robin Hood, The
+It Came from Beneath the Sea
+Bad Seed, The
+Splendor in the Grass
+How to Stuff a Wild Bikini
+
+
+Layer 1 - Code 197
+Occurrences: 182
+
+Representative movies:
+------------------------------
+Ace Ventura: When Nature Calls
+Carrington
+Bio-Dome
+Kicking and Screaming
+In the Bleak Midwinter
+Unforgettable
+Beyond Rangoon
+Jury Duty
+Under Siege 2: Dark Territory
+Unzipped
+Waterworld
+Billy Madison
+Drop Zone
+Ed Wood
+National Lampoon's Senior Trip
+Tales From the Crypt Presents: Demon Knight
+Star Trek: Generations
+Ace Ventura: Pet Detective
+True Lies
+Another Stakeout
+
+
+Layer 1 - Code 201
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Englishman Who Went Up a Hill, But Came Down a Mountain, The
+Michael
+Darby O'Gill and the Little People
+Shattered Image
+Stir of Echoes
+
+
+Layer 1 - Code 204
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Jefferson in Paris
+War, The
+Trial by Jury
+Unbearable Lightness of Being, The
+Lost World: Jurassic Park, The
+Life of Émile Zola, The
+I Saw What You Did
+Mission to Mars
+Who's That Girl?
+
+
+Layer 1 - Code 206
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Conan the Barbarian
+Honey, I Blew Up the Kid
+Wisdom
+Mission, The
+South Pacific
+Tarzan the Fearless
+Last Picture Show, The
+
+
+Layer 1 - Code 207
+Occurrences: 50
+
+Representative movies:
+------------------------------
+Clueless
+Casper
+Mute Witness
+Unstrung Heroes
+Little Odessa
+I Like It Like That
+Little Buddha
+Speechless
+Homeward Bound II: Lost in San Francisco
+Last Supper, The
+Horseman on the Roof, The
+Ghost in the Shell
+Halloween: The Curse of Michael Myers
+Cool Runnings
+Raiders of the Lost Ark
+Nowhere
+Air Bud
+Swept from the Sea
+Little City
+Welcome to Woop-Woop
+
+
+Layer 1 - Code 210
+Occurrences: 5
+
+Representative movies:
+------------------------------
+It Could Happen to You
+Cyclo
+Dark City
+Paradine Case, The
+Circus, The
+
+
+Layer 1 - Code 213
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Shadowlands
+Pinocchio
+Nutty Professor, The
+Adventures of Pinocchio, The
+In Search of the Castaways
+Nutty Professor, The
+Natural, The
+
+
+Layer 1 - Code 216
+Occurrences: 28
+
+Representative movies:
+------------------------------
+Richard III
+Perez Family, The
+Naked Gun 33 1/3: The Final Insult
+Women, The
+Lawnmower Man, The
+Microcosmos
+Right Stuff, The
+Star Trek VI: The Undiscovered Country
+Star Trek III: The Search for Spock
+Hercules
+Free Willy 3: The Rescue
+Seven Years in Tibet
+Education of Little Tree, The
+U.S. Marshalls
+Godfather: Part III, The
+Seventh Sign, The
+Few Good Men, A
+Stardust Memories
+General, The
+Heartbreak Ridge
+
+
+Layer 1 - Code 217
+Occurrences: 17
+
+Representative movies:
+------------------------------
+Nobody Loves Me
+Man Without a Face, The
+Cold Comfort Farm
+Ghosts of Mississippi
+Cavalcade
+Soldier's Daughter Never Cries, A
+Heaven
+Twice Upon a Yesterday
+Minus Man, The
+Meatballs 4
+Tigger Movie, The
+Born Yesterday
+Who's Harry Crumb?
+Me Myself I
+Last September, The
+Missing in Action
+X: The Unknown
+
+
+Layer 1 - Code 219
+Occurrences: 33
+
+Representative movies:
+------------------------------
+Scarlet Letter, The
+To Wong Foo, Thanks for Everything! Julie Newmar
+North by Northwest
+Scarlet Letter, The
+Secret Agent, The
+For the Moment
+Great Race, The
+Madame Butterfly
+Jean de Florette
+Bridge on the River Kwai, The
+Amityville Horror, The
+Jaws 3-D
+Anna Karenina
+Kissed
+Hunt for Red October, The
+Hope Floats
+Passion in the Desert
+Halloween 4: The Return of Michael Myers
+Cat from Outer Space, The
+Next Stop, Wonderland
+
+
+Layer 1 - Code 221
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Virtuosity
+In the Name of the Father
+Love Bug, The
+Poseidon Adventure, The
+Rich and Strange
+Morning After, The
+Splendor
+Distinguished Gentleman, The
+To Sir with Love
+Great Locomotive Chase, The
+
+
+Layer 1 - Code 222
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Confessional, The
+NeverEnding Story III, The
+Stargate
+Abyss, The
+Shiloh
+Poltergeist III
+Seven Samurai
+Chambermaid on the Titanic, The
+Battle for the Planet of the Apes
+Man Facing Southeast
+Guardian, The
+Prizzi's Honor
+Crime and Punishment in Suburbia
+
+
+Layer 1 - Code 225
+Occurrences: 50
+
+Representative movies:
+------------------------------
+Postino, Il
+Muppet Treasure Island
+Steal Big, Steal Little
+Lord of Illusions
+Tie That Binds, The
+Losing Isaiah
+When a Man Loves a Woman
+Boys Life
+Romeo Is Bleeding
+Beauty and the Beast
+Mrs. Winterbourne
+Angus
+Spitfire Grill, The
+Bound
+Little Lord Fauntleroy
+Beautiful Thing
+Glengarry Glen Ross
+Associate, The
+Garden of Finzi-Contini, The
+Star Trek: The Motion Picture
+
+
+Layer 1 - Code 226
+Occurrences: 17
+
+Representative movies:
+------------------------------
+Bridges of Madison County, The
+Pie in the Sky
+Baby-Sitters Club, The
+Man of No Importance, A
+Six Degrees of Separation
+Beans of Egypt, Maine, The
+Hellraiser: Bloodline
+Nelly & Monsieur Arnaud
+Kama Sutra: A Tale of Love
+Fifth Element, The
+Gods and Monsters
+Civil Action, A
+Taming of the Shrew, The
+Shampoo
+My Chauffeur
+Madame Sousatzka
+Cecil B. Demented
+
+
+Layer 1 - Code 227
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Substitute, The
+Contempt
+Wild America
+Steamboat Willie
+Jerk, The
+Police Academy 3: Back in Training
+Karate Kid, The
+Superman III
+Taking of Pelham One Two Three, The
+Tao of Steve, The
+
+
+Layer 1 - Code 232
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Band Wagon, The
+Fantasia
+3 Ninjas: High Noon On Mega Mountain
+Class
+Dreamscape
+
+
+Layer 1 - Code 234
+Occurrences: 21
+
+Representative movies:
+------------------------------
+Broken Arrow
+Rob Roy
+Heavenly Creatures
+Above the Rim
+With Honors
+Twelfth Night
+Delicatessen
+Grifters, The
+Substance of Fire, The
+Eve's Bayou
+Family Plot
+Topaz
+Better Than Chocolate
+Head On
+Tequila Sunrise
+Dog of Flanders, A
+Solar Crisis
+Angel Heart
+Golden Bowl, The
+Pot O' Gold
+
+
+Layer 1 - Code 235
+Occurrences: 18
+
+Representative movies:
+------------------------------
+Shanghai Triad
+Three Wishes
+Picture Bride
+Police Story 4: Project S
+Gigi
+City of Industry
+Prom Night III: The Last Kiss
+Exorcist III, The
+Karate Kid III, The
+Leatherface: Texas Chainsaw Massacre III
+Lovers on the Bridge, The
+Little Shop of Horrors, The
+They Shoot Horses, Don't They?
+Verdict, The
+Toxic Avenger Part III: The Last Temptation of Toxie, The
+Official Story, The
+Girlfight
+Slumber Party Massacre III, The
+
+
+Layer 1 - Code 236
+Occurrences: 23
+
+Representative movies:
+------------------------------
+Outbreak
+Stuart Saves His Family
+House Party 3
+Wizard of Oz, The
+2001: A Space Odyssey
+Smoke Signals
+Return from Witch Mountain
+Charlotte's Web
+I Married A Strange Person
+Lady Vanishes, The
+House on Haunted Hill
+Mummy's Ghost, The
+Aces: Iron Eagle III
+Astronaut's Wife, The
+Soldier's Story, A
+Story of Us, The
+Straight Story, The
+Who Framed Roger Rabbit?
+Room at the Top
+Brandon Teena Story, The
+
+
+Layer 1 - Code 239
+Occurrences: 101
+
+Representative movies:
+------------------------------
+GoldenEye
+Nixon
+Othello
+Babe
+Screamers
+Boomerang
+Batman Forever
+Smoke
+Dolores Claiborne
+Nina Takes a Lover
+Panther
+Ready to Wear
+Tank Girl
+Muriel's Wedding
+Wyatt Earp
+Low Down Dirty Shame, A
+Street Fighter
+Naked
+Threesome
+Aladdin
+
+
+Layer 1 - Code 241
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Cosi
+Stalingrad
+Curdled
+So Dear to My Heart
+Streetcar Named Desire, A
+One Tough Cop
+Meteor
+City, The
+Supergirl
+
+
+Layer 1 - Code 242
+Occurrences: 88
+
+Representative movies:
+------------------------------
+Restoration
+Man of the Year
+Bad Boys
+French Kiss
+Red Firecracker, Green Firecracker
+Vanya on 42nd Street
+Getting Even with Dad
+Lassie
+Executive Decision
+Rising Sun
+Sliver
+So I Married an Axe Murderer
+Courage Under Fire
+Space Jam
+American Buffalo
+Funny Face
+Father of the Bride
+Beat the Devil
+Algiers
+Weekend at Bernie's
+
+
+Layer 1 - Code 243
+Occurrences: 6
+
+Representative movies:
+------------------------------
+M. Butterfly
+Poltergeist
+Strangers on a Train
+Tingler, The
+Kronos
+Kronos
+
+
+Layer 1 - Code 244
+Occurrences: 28
+
+Representative movies:
+------------------------------
+Margaret's Museum
+Free Willy 2: The Adventure Home
+Four Weddings and a Funeral
+Secret Adventures of Tom Thumb, The
+Short Cuts
+Home Alone
+Cable Guy, The
+Nothing to Lose
+Herbie Rides Again
+Shall We Dance?
+Shall We Dance?
+Oliver!
+Nightmare on Elm Street Part 2: Freddy's Revenge, A
+Nightmare on Elm Street 4: The Dream Master, A
+Prom Night IV: Deliver Us From Evil
+Adventures in Babysitting
+Monument Ave.
+Pecker
+Enemy of the State
+Bug's Life, A
+
+
+Layer 1 - Code 246
+Occurrences: 32
+
+Representative movies:
+------------------------------
+Hate
+Quiz Show
+Queen Margot
+S.F.W.
+Heaven & Earth
+Judgment Night
+Original Gangstas
+Breakfast at Tiffany's
+Clockwork Orange, A
+Carrie
+Career Girls
+Kicked in the Head
+Joy Luck Club, The
+Home Alone 3
+Big Hit, The
+Repo Man
+Halloween II
+About Last Night...
+Pink Flamingos
+You've Got Mail
+
+
+Layer 1 - Code 248
+Occurrences: 9
+
+Representative movies:
+------------------------------
+House of the Spirits, The
+Wedding Gift, The
+One Fine Day
+My Life and Times With Antonin Artaud
+Rendezvous in Paris
+Austin Powers: The Spy Who Shagged Me
+Red Violin, The
+Postman Always Rings Twice, The
+Conversation, The
+
+
+Layer 1 - Code 249
+Occurrences: 41
+
+Representative movies:
+------------------------------
+Species
+Maverick
+Andre
+Diabolique
+Moll Flanders
+Emma
+Foreign Correspondent
+Damsel in Distress, A
+Alien
+Nosferatu
+Murder at 1600
+Metro
+SubUrbia
+Rosewood
+Saint, The
+Deep Rising
+Clockwatchers
+Metropolitan
+Exorcist, The
+Dangerous Liaisons
+
+
+Layer 1 - Code 255
+Occurrences: 34
+
+Representative movies:
+------------------------------
+Living in Oblivion
+Heavyweights
+Made in America
+Eraser
+Normal Life
+Sleepers
+Sleeper
+Tin Drum, The
+Harold and Maude
+Groundhog Day
+Koyaanisqatsi
+Room with a View, A
+Amityville: Dollhouse
+Breaking the Waves
+Sling Blade
+Paradise Lost: The Child Murders at Robin Hood Hills
+Machine, The
+Lawn Dogs
+Dune
+Journey of Natty Gann, The
+
+
+
+================================================================================
+LAYER 2
+================================================================================
+
+Layer 2 - Code 1
+Occurrences: 21
+
+Representative movies:
+------------------------------
+Stuart Saves His Family
+While You Were Sleeping
+In the Mouth of Madness
+Remains of the Day, The
+'Til There Was You
+Lawnmower Man, The
+Secret Agent, The
+Highlander
+Inventing the Abbotts
+Full Monty, The
+Hanging Garden, The
+Friday the 13th Part VII: The New Blood
+Journey of Natty Gann, The
+Dead Men Don't Wear Plaid
+Beetlejuice
+King of Masks, The
+It Came from Outer Space
+Invasion of the Body Snatchers
+Adventures of Sebastian Cole, The
+Color of Paradise, The
+
+
+Layer 2 - Code 2
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Usual Suspects, The
+Nine Months
+Horseman on the Roof, The
+Foreign Correspondent
+Killer, The
+Shining, The
+Daytrippers, The
+Killing, The
+Fury, The
+
+
+Layer 2 - Code 3
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Scout, The
+Blue Angel, The
+Star Trek III: The Search for Spock
+Machine, The
+Metropolis
+NeverEnding Story, The
+Pet Sematary
+Airport '77
+Mansfield Park
+Green Mile, The
+Missing in Action
+Dreamscape
+
+
+Layer 2 - Code 4
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Close Shave, A
+Butcher's Wife, The
+Beloved
+Pope of Greenwich Village, The
+Apple, The
+Boys from Brazil, The
+Titan A.E.
+
+
+Layer 2 - Code 5
+Occurrences: 101
+
+Representative movies:
+------------------------------
+Screamers
+Love & Human Remains
+Burnt By the Sun
+Nina Takes a Lover
+Panther
+Bad Company
+Black Beauty
+Even Cowgirls Get the Blues
+Savage Nights
+Batman
+Love and a .45
+Pallbearer, The
+Barbarella
+Visitors, The
+Multiplicity
+Striptease
+Fan, The
+Vertigo
+All About Eve
+Mark of Zorro, The
+
+
+Layer 2 - Code 6
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Mulholland Falls
+Ballad of Narayama, The
+Gay Divorcee, The
+Six of a Kind
+Ballad of Narayama, The
+Mifune
+
+
+Layer 2 - Code 10
+Occurrences: 36
+
+Representative movies:
+------------------------------
+Rumble in the Bronx
+Walking Dead, The
+8 Seconds
+No Escape
+North
+Radioland Murders
+Cemetery Man
+Hunchback of Notre Dame, The
+Rear Window
+North by Northwest
+Apartment, The
+Get on the Bus
+Mediterraneo
+Raging Bull
+Walkabout
+Rough Magic
+Roseanna's Grave
+Out to Sea
+Starship Troopers
+Still Breathing
+
+
+Layer 2 - Code 11
+Occurrences: 11
+
+Representative movies:
+------------------------------
+Unzipped
+Star Trek: Generations
+Affair to Remember, An
+Rich Man's Wife, The
+People vs. Larry Flynt, The
+Cérémonie, La
+Best Men
+Shakespeare in Love
+Who Framed Roger Rabbit?
+Volunteers
+Retroactive
+
+
+Layer 2 - Code 14
+Occurrences: 46
+
+Representative movies:
+------------------------------
+Clockers
+Paper, The
+Another Stakeout
+Body Snatchers
+Demolition Man
+Man Without a Face, The
+Striking Distance
+Ciao, Professore!
+Rock, The
+Eraser
+Crow: City of Angels, The
+Michael Collins
+Jude
+Sleeper
+Shooter, The
+Strictly Ballroom
+Army of Darkness
+Day the Earth Stood Still, The
+Heathers
+Steel
+
+
+Layer 2 - Code 15
+Occurrences: 15
+
+Representative movies:
+------------------------------
+Little Odessa
+Speechless
+True Lies
+Naked
+Breakfast at Tiffany's
+Fried Green Tomatoes
+Freaky Friday
+Tall Tale
+Nashville
+Bride of Chucky
+Mole People, The
+Twin Falls Idaho
+Never Talk to Strangers
+Dying Young
+Killer Shrews, The
+
+
+Layer 2 - Code 17
+Occurrences: 11
+
+Representative movies:
+------------------------------
+Across the Sea of Time
+Chain Reaction
+Maltese Falcon, The
+Senseless
+Terms of Endearment
+Young Sherlock Holmes
+Fire Within, The
+Where the Buffalo Roam
+Baby... Secret of the Lost Legend
+Roadside Prophets
+Almost Famous
+
+
+Layer 2 - Code 21
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Three Colors: White
+Best of the Best 3: No Turning Back
+In Love and War
+Lost World: Jurassic Park, The
+Horse Whisperer, The
+Big Kahuna, The
+Sunshine
+
+
+Layer 2 - Code 24
+Occurrences: 25
+
+Representative movies:
+------------------------------
+Shopping
+If Lucy Fell
+Swimming with Sharks
+Adventures of Priscilla, Queen of the Desert, The
+Wyatt Earp
+Delta of Venus
+Grass Harp, The
+Swingers
+Annie Hall
+'burbs, The
+Lord of the Rings, The
+Weird Science
+Allnighter, The
+Meet Joe Black
+Enemy of the State
+Heartbreak Ridge
+Wood, The
+Sixth Sense, The
+Yards, The
+Only Angels Have Wings
+
+
+Layer 2 - Code 27
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Anne Frank Remembered
+I Shot Andy Warhol
+Wings of the Dove, The
+Two Girls and a Guy
+Without Limits
+Omega Man, The
+Kid, The
+Frequency
+Kid, The
+Official Story, The
+
+
+Layer 2 - Code 28
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Great Expectations
+Child's Play
+Needful Things
+Meatballs Part II
+Come See the Paradise
+
+
+Layer 2 - Code 29
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Cure, The
+Courage Under Fire
+Faces
+Strangers on a Train
+Thing From Another World, The
+Happy, Texas
+Magnum Force
+
+
+Layer 2 - Code 31
+Occurrences: 15
+
+Representative movies:
+------------------------------
+Sabrina
+Denise Calls Up
+Sabrina
+Die Hard
+Tin Drum, The
+Sting, The
+Nightwatch
+Hercules
+Godfather: Part III, The
+Desperately Seeking Susan
+Ravenous
+Rocky Horror Picture Show, The
+Good Earth, The
+Predator
+Diner
+
+
+Layer 2 - Code 36
+Occurrences: 5
+
+Representative movies:
+------------------------------
+My Family
+Curdled
+Thieves
+Children of Heaven, The
+Little Nemo: Adventures in Slumberland
+
+
+Layer 2 - Code 40
+Occurrences: 16
+
+Representative movies:
+------------------------------
+Mighty Morphin Power Rangers: The Movie
+Celluloid Closet, The
+Diabolique
+Mystery Science Theater 3000: The Movie
+Howling, The
+English Patient, The
+Unforgiven
+Audrey Rose
+Hope Floats
+Return of Jafar, The
+Karate Kid, Part II, The
+Adventures of Milo and Otis, The
+Drugstore Cowboy
+Longest Day, The
+Fantasia 2000
+Spy Who Loved Me, The
+
+
+Layer 2 - Code 42
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Geronimo: An American Legend
+Everest
+Halloween III: Season of the Witch
+Steamboat Willie
+You've Got Mail
+Ghostbusters II
+Crimes and Misdemeanors
+Keeping the Faith
+Paper Chase, The
+Fun and Fancy Free
+
+
+Layer 2 - Code 43
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Mr. Smith Goes to Washington
+Chamber, The
+Fandango
+Who's Afraid of Virginia Woolf?
+My Science Project
+Who's Harry Crumb?
+Sleepwalkers
+
+
+Layer 2 - Code 44
+Occurrences: 26
+
+Representative movies:
+------------------------------
+City of Lost Children, The
+Indian in the Cupboard, The
+Species
+Three Wishes
+Hunted, The
+Murder in the First
+I Love Trouble
+Mask, The
+Aristocats, The
+Nutty Professor, The
+First Wives Club, The
+Women, The
+Caught
+Everyone Says I Love You
+Murder, My Sweet
+Unbearable Lightness of Being, The
+Murder at 1600
+Anastasia
+Spanish Prisoner, The
+Little Mermaid, The
+
+
+Layer 2 - Code 46
+Occurrences: 10
+
+Representative movies:
+------------------------------
+When Night Is Falling
+Shadow Conspiracy
+Basic Instinct
+Big Lebowski, The
+Saboteur
+Frankenstein
+Muse, The
+Ape, The
+Mariachi, El
+Seven Days in May
+
+
+Layer 2 - Code 47
+Occurrences: 56
+
+Representative movies:
+------------------------------
+Clueless
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+Junior
+Little Women
+Once Were Warriors
+Cowboy Way, The
+Fresh
+Fargo
+James and the Giant Peach
+Solo
+Harriet the Spy
+Adventures of Pinocchio, The
+Matilda
+Wizard of Oz, The
+Father of the Bride
+Pollyanna
+Winnie the Pooh and the Blustery Day
+Johns
+Reservoir Dogs
+Drop Dead Fred
+
+
+Layer 2 - Code 48
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Babysitter, The
+Don Juan DeMarco
+When a Man Loves a Woman
+Widows' Peak
+World of Apu, The
+Mrs. Winterbourne
+Go Now
+Avengers, The
+Gilda
+Place in the Sun, A
+
+
+Layer 2 - Code 50
+Occurrences: 50
+
+Representative movies:
+------------------------------
+Ace Ventura: When Nature Calls
+Money Train
+Kids of the Round Table
+Muppet Treasure Island
+Hideaway
+Little Buddha
+Above the Rim
+Airheads
+Getaway, The
+Road to Wellville, The
+Lost Horizon
+My Man Godfrey
+2 Days in the Valley
+Old Yeller
+For the Moment
+Rebel Without a Cause
+Meet Wally Sparks
+Jungle2Jungle
+When the Cats Away
+Sliding Doors
+
+
+Layer 2 - Code 51
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Goofy Movie, A
+So I Married an Axe Murderer
+Enchanted April
+Beverly Hills Ninja
+Alien: Resurrection
+Star Trek: Insurrection
+Gate II: Trespassers, The
+Retro Puppetmaster
+
+
+Layer 2 - Code 53
+Occurrences: 34
+
+Representative movies:
+------------------------------
+Mute Witness
+Hoop Dreams
+Pushing Hands
+Village of the Damned
+King of the Hill
+Wild Bunch, The
+Purple Noon
+Ghost in the Shell
+Swiss Family Robinson
+Monty Python's Life of Brian
+Children of the Corn IV: The Gathering
+Amityville Curse, The
+I Can't Sleep
+Alan Smithee Film: Burn Hollywood Burn, An
+Friday the 13th Part 3: 3D
+This World, Then the Fireworks
+Return to Oz
+Holy Man
+King Kong
+King Kong
+
+
+Layer 2 - Code 54
+Occurrences: 57
+
+Representative movies:
+------------------------------
+Dead Presidents
+Tie That Binds, The
+Exit to Eden
+My Crazy Life
+Mixed Nuts
+Clear and Present Danger
+Sliver
+Some Folks Call It a Sling Blade
+Alphaville
+Cable Guy, The
+Emma
+Flirt
+Twelfth Night
+Funny Face
+Angel and the Badman
+Fly Away Home
+Damsel in Distress, A
+Return of the Pink Panther, The
+Return of Martin Guerre, The
+My Left Foot
+
+
+Layer 2 - Code 57
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Suture
+Faust
+Sex, Lies, and Videotape
+Love Letter, The
+Bad Seed, The
+Batman: Mask of the Phantasm
+Devil's Brigade, The
+Bear, The
+
+
+Layer 2 - Code 58
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Phenomenon
+Wonderland
+Affliction
+Concorde: Airport '79, The
+Wonderland
+
+
+Layer 2 - Code 62
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Truth or Consequences, N.M.
+Artemisia
+Gingerbread Man, The
+Hang 'em High
+Rosetta
+Places in the Heart
+Jennifer 8
+
+
+Layer 2 - Code 64
+Occurrences: 44
+
+Representative movies:
+------------------------------
+Heat
+Nick of Time
+Baby-Sitters Club, The
+Higher Learning
+Hot Shots! Part Deux
+Mr. Wonderful
+Welcome to the Dollhouse
+Larger Than Life
+Extreme Measures
+Platoon
+Glengarry Glen Ross
+Arsenic and Old Lace
+Blood & Wine
+B*A*P*S
+Bonheur, Le
+NeverEnding Story II: The Next Chapter, The
+Grandview, U.S.A.
+Broadcast News
+24 7: Twenty Four Seven
+Christine
+
+
+Layer 2 - Code 65
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Land and Freedom
+Gold Diggers: The Secret of Bear Mountain
+Wedding Singer, The
+Henry Fool
+Mutiny on the Bounty
+Trip to Bountiful, The
+Tomb of Ligeia, The
+
+
+Layer 2 - Code 66
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Roommates
+Cabin Boy
+Robin Hood: Prince of Thieves
+Swing Kids
+Jerk, The
+Gate, The
+Tales of Terror
+Onegin
+Porky's
+
+
+Layer 2 - Code 68
+Occurrences: 63
+
+Representative movies:
+------------------------------
+Fair Game
+Broken Arrow
+Down Periscope
+Waterworld
+Before the Rain
+Gordy
+Ace Ventura: Pet Detective
+Cobb
+Schindler's List
+Surviving the Game
+War Room, The
+Chasers
+Thinner
+Careful
+Stonewall
+Bulletproof
+Gone with the Wind
+Farewell to Arms, A
+Infinity
+Angels in the Outfield
+
+
+Layer 2 - Code 71
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Quest, The
+My Fellow Americans
+Hunt for Red October, The
+Education of Little Tree, The
+B. Monkey
+Corruptor, The
+Dreamlife of Angels, The
+Steal This Movie!
+
+
+Layer 2 - Code 73
+Occurrences: 7
+
+Representative movies:
+------------------------------
+2001: A Space Odyssey
+Sophie's Choice
+Tetsuo II: Body Hammer
+Cop Land
+Wilde
+Arachnophobia
+Hitch-Hiker, The
+
+
+Layer 2 - Code 74
+Occurrences: 52
+
+Representative movies:
+------------------------------
+Father of the Bride Part II
+Mr. Wrong
+Awfully Big Adventure, An
+I.Q.
+Love Affair
+Quiz Show
+Virtuosity
+Free Willy
+Englishman Who Went Up a Hill, But Came Down a Mountain, The
+Bye Bye, Love
+Kids in the Hall: Brain Candy
+Angus
+Great White Hype, The
+Time to Kill, A
+American in Paris, An
+Around the World in 80 Days
+Grace of My Heart
+Ed's Next Move
+Associate, The
+Amityville: Dollhouse
+
+
+Layer 2 - Code 75
+Occurrences: 91
+
+Representative movies:
+------------------------------
+Tom and Huck
+Dracula: Dead and Loving It
+Get Shorty
+Mary Reilly
+Beyond Rangoon
+Safe
+French Kiss
+Far From Home: The Adventures of Yellow Dog
+Gumby: The Movie
+Just Cause
+Only You
+Four Weddings and a Funeral
+I Like It Like That
+Boxing Helena
+Bread and Chocolate
+Girl 6
+Boys
+Cold Comfort Farm
+It Happened One Night
+East of Eden
+
+
+Layer 2 - Code 77
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Beverly Hills Cop III
+Renaissance Man
+Shall We Dance?
+Dear God
+Boat, The
+Shall We Dance?
+Tarzan and the Lost City
+Lost Weekend, The
+Pelican Brief, The
+
+
+Layer 2 - Code 78
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Farinelli: il castrato
+Age of Innocence, The
+Kalifornia
+Eighth Day, The
+L.A. Confidential
+I Know What You Did Last Summer
+Hugo Pool
+Urban Legends: Final Cut
+Girlfight
+
+
+Layer 2 - Code 81
+Occurrences: 69
+
+Representative movies:
+------------------------------
+It Takes Two
+Lamerica
+Friday
+First Knight
+Disclosure
+Pulp Fiction
+Vanya on 42nd Street
+Boys Life
+Being Human
+Bronx Tale, A
+Dazed and Confused
+Life with Mikey
+Nelly & Monsieur Arnaud
+Space Jam
+Glimmer Man, The
+Homeward Bound: The Incredible Journey
+Secrets & Lies
+Aladdin and the King of Thieves
+Victor/Victoria
+Jingle All the Way
+
+
+Layer 2 - Code 82
+Occurrences: 15
+
+Representative movies:
+------------------------------
+Rudy
+Kansas City
+Giant
+Great Race, The
+Birds, The
+3 Ninjas: High Noon On Mega Mountain
+Star Kid
+Taste of Cherry
+Topaz
+October Sky
+Out-of-Towners, The
+Rain
+Joe the King
+Talented Mr. Ripley, The
+Soft Fruit
+
+
+Layer 2 - Code 83
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Powder
+Fluke
+To Kill a Mockingbird
+Swept Away
+Big Country, The
+Born American
+Tigerland
+
+
+Layer 2 - Code 88
+Occurrences: 92
+
+Representative movies:
+------------------------------
+Cutthroat Island
+Copycat
+Cry, the Beloved Country
+How to Make an American Quilt
+Beautiful Girls
+Desperado
+Hackers
+Scarlet Letter, The
+Smoke
+Dolores Claiborne
+Kiss of Death
+Tank Girl
+Muriel's Wedding
+Bitter Moon
+Carlito's Way
+Fatal Instinct
+Saint of Fort Washington, The
+Threesome
+Tombstone
+Moll Flanders
+
+
+Layer 2 - Code 89
+Occurrences: 11
+
+Representative movies:
+------------------------------
+Drop Zone
+Candyman: Farewell to the Flesh
+Glory
+Breakdown
+Absent Minded Professor, The
+Shadrach
+Back to School
+Metroland
+Big
+Teaching Mrs. Tingle
+Time Bandits
+
+
+Layer 2 - Code 91
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Poetic Justice
+Seventh Heaven
+Garbage Pail Kids Movie, The
+Dogma
+Whole Nine Yards, The
+
+
+Layer 2 - Code 94
+Occurrences: 42
+
+Representative movies:
+------------------------------
+Castle Freak
+Heavenly Creatures
+Dave
+Executive Decision
+Truth About Cats & Dogs, The
+Dead Man
+Kaspar Hauser
+Bliss
+Glory Daze
+Delicatessen
+Psycho
+Chinatown
+Bad Taste
+Cool Hand Luke
+Prisoner of the Mountains
+My Own Private Idaho
+Ice Storm, The
+Primary Colors
+Chinese Box
+Picnic at Hanging Rock
+
+
+Layer 2 - Code 95
+Occurrences: 64
+
+Representative movies:
+------------------------------
+Leaving Las Vegas
+Misérables, Les
+NeverEnding Story III, The
+Basketball Diaries, The
+Blown Away
+Judgment Night
+Robin Hood: Men in Tights
+Naked in New York
+Ghost
+Window to Paris
+Kingpin
+To Be or Not to Be
+Algiers
+Last Man Standing
+Cinderella
+Night on Earth
+This Is Spinal Tap
+Night Falls on Manhattan
+Ripe
+Edge, The
+
+
+Layer 2 - Code 97
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Sense and Sensibility
+Secret of Roan Inish, The
+Days of Thunder
+Blood For Dracula
+Poseidon Adventure, The
+Squanto: A Warrior's Tale
+Dorado, El
+
+
+Layer 2 - Code 100
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Amityville 1992: It's About Time
+Playing God
+Strangeland
+Airport
+Big Tease, The
+Parenthood
+
+
+Layer 2 - Code 102
+Occurrences: 19
+
+Representative movies:
+------------------------------
+Grumpier Old Men
+Exotica
+Sgt. Bilko
+Unhook the Stars
+Rosencrantz and Guildenstern Are Dead
+Bridge on the River Kwai, The
+Chairman of the Board
+Winter Guest, The
+Dear Jesse
+Doctor Dolittle
+Doctor Dolittle
+Rounders
+Patch Adams
+Peeping Tom
+Battle for the Planet of the Apes
+Besieged
+Arlington Road
+Omega Code, The
+Fitzcarraldo
+
+
+Layer 2 - Code 103
+Occurrences: 21
+
+Representative movies:
+------------------------------
+Ed Wood
+It Could Happen to You
+Malice
+Princess Caraboo
+Last Supper, The
+Stupids, The
+Stalingrad
+Stealing Beauty
+Wife, The
+Crying Game, The
+Cat People
+Saint, The
+Opposite of Sex, The
+Instinct
+400 Blows, The
+Queens Logic
+Total Recall
+Three to Tango
+Ipcress File, The
+Brandon Teena Story, The
+
+
+Layer 2 - Code 104
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Crumb
+Santa Clause, The
+Coneheads
+Angel on My Shoulder
+Down by Law
+Gnome-Mobile, The
+Mephisto
+Trick or Treat
+Gloria
+Bandits
+Cobra
+Draughtsman's Contract, The
+Do the Right Thing
+Pumpkinhead
+
+
+Layer 2 - Code 107
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Frankie Starlight
+Man of the Year
+Blue Sky
+$1,000,000 Duck
+Blank Check
+Frances
+Mystery, Alaska
+Year My Voice Broke, The
+House Party
+Phantasm II
+
+
+Layer 2 - Code 109
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Prophecy, The
+Specialist, The
+Pecker
+Thomas Crown Affair, The
+Thomas Crown Affair, The
+Private School
+
+
+Layer 2 - Code 111
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Pie in the Sky
+Jury Duty
+Normal Life
+City of Industry
+Gattaca
+Sphere
+Westworld
+Man on the Moon
+They Might Be Giants
+
+
+Layer 2 - Code 113
+Occurrences: 20
+
+Representative movies:
+------------------------------
+Waiting to Exhale
+Apollo 13
+Inkwell, The
+Secret Garden, The
+Aladdin
+Craft, The
+Old Man and the Sea, The
+Bob Roberts
+Believers, The
+Star Trek VI: The Undiscovered Country
+Hocus Pocus
+Toys
+Fantastic Planet, The
+Red Violin, The
+Insider, The
+Galaxy Quest
+Last Detail, The
+Raisin in the Sun, A
+Center Stage
+Jesus' Son
+
+
+Layer 2 - Code 116
+Occurrences: 17
+
+Representative movies:
+------------------------------
+Forbidden Planet
+Dante's Peak
+Gridlock'd
+Butcher Boy, The
+Blues Brothers 2000
+Barney's Great Adventure
+Real Blonde, The
+Blackbeard's Ghost
+Family Plot
+eXistenZ
+Midsummer Night's Dream, A
+Creepshow 2
+American Flyers
+Black and White
+Dark Command
+Puppet Master 5: The Final Chapter
+Hellbound: Hellraiser II
+
+
+Layer 2 - Code 117
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Persuasion
+Swan Princess, The
+Shawshank Redemption, The
+Spellbound
+Candidate, The
+Doctor Zhivago
+Men Don't Leave
+My Name Is Joe
+Psycho III
+Presidio, The
+Story of G.I. Joe, The
+Kronos
+Kronos
+
+
+Layer 2 - Code 121
+Occurrences: 49
+
+Representative movies:
+------------------------------
+Eye for an Eye
+Catwalk
+Reckless
+Natural Born Killers
+Ready to Wear
+Colonel Chabert, Le
+Made in America
+Basquiat
+For Whom the Bell Tolls
+Top Hat
+Cat on a Hot Tin Roof
+Crossfire
+Funeral, The
+Cook the Thief His Wife & Her Lover, The
+Great Escape, The
+Angel Baby
+Metro
+Rocket Man
+Witness
+Fallen
+
+
+Layer 2 - Code 125
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Pompatus of Love, The
+Edge of Seventeen
+Kindred, The
+Palm Beach Story, The
+Contender, The
+
+
+Layer 2 - Code 126
+Occurrences: 39
+
+Representative movies:
+------------------------------
+Bed of Roses
+Juror, The
+In the Bleak Midwinter
+Batman Forever
+Nadja
+Crow, The
+Shadow, The
+Shadowlands
+Thirty-Two Short Films About Glenn Gould
+Trial by Jury
+Pinocchio
+Heaven's Prisoners
+Marlene Dietrich: Shadow and Light
+Bewegte Mann, Der
+Sunset Blvd.
+Set It Off
+Abyss, The
+Blues Brothers, The
+Until the End of the World
+Omen, The
+
+
+Layer 2 - Code 128
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Koyaanisqatsi
+Truman Show, The
+Kundun
+Clockwatchers
+Children of the Corn
+Creepshow
+Passion of Mind
+Clara's Heart
+Godzilla 2000
+
+
+Layer 2 - Code 130
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Casper
+Lawrence of Arabia
+Evening Star, The
+Designated Mourner, The
+Ever After: A Cinderella Story
+Rush Hour
+Searchers, The
+
+
+Layer 2 - Code 131
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Pretty Woman
+Mulan
+Your Friends and Neighbors
+Overnight Delivery
+It Conquered the World
+Meatballs
+Natural, The
+Hook
+
+
+Layer 2 - Code 134
+Occurrences: 6
+
+Representative movies:
+------------------------------
+Lord of Illusions
+Godfather: Part II, The
+Schizopolis
+Dune
+Wrongfully Accused
+Producers, The
+
+
+Layer 2 - Code 136
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Something to Talk About
+Mr. Jones
+Kika
+Snow White and the Seven Dwarfs
+Flower of My Secret, The
+Faithful
+Mr. Magoo
+In God's Hands
+If....
+Theory of Flight, The
+Lulu on the Bridge
+Children of Paradise
+
+
+Layer 2 - Code 139
+Occurrences: 30
+
+Representative movies:
+------------------------------
+GoldenEye
+American President, The
+Billy Madison
+Picture Bride
+Flintstones, The
+Secret Adventures of Tom Thumb, The
+Calendar Girl
+House of the Spirits, The
+Dances with Wolves
+Silence of the Lambs, The
+Frighteners, The
+Love Bug, The
+On Golden Pond
+Grease
+Fathers' Day
+Star Maps
+Switchback
+Tomorrow Never Dies
+Darby O'Gill and the Little People
+Romancing the Stone
+
+
+Layer 2 - Code 143
+Occurrences: 5
+
+Representative movies:
+------------------------------
+101 Dalmatians
+101 Dalmatians
+Rescuers, The
+My Favorite Martian
+Moonstruck
+
+
+Layer 2 - Code 145
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Confessional, The
+Son in Law
+Looking for Richard
+Young Guns
+Last Days of Disco, The
+Gentleman's Agreement
+Labyrinth
+In Dreams
+Fly, The
+Fly, The
+Adventures of Elmo in Grouchland, The
+River, The
+
+
+Layer 2 - Code 148
+Occurrences: 431
+
+Representative movies:
+------------------------------
+Jumanji
+Nixon
+Now and Then
+Lawnmower Man 2: Beyond Cyberspace
+Once Upon a Time... When We Were Colored
+Last Summer in the Hamptons
+Hate
+City Hall
+Nobody Loves Me
+Before and After
+Young Poisoner's Handbook, The
+Steal Big, Steal Little
+Flirting With Disaster
+Jade
+Amateur
+Congo
+Crimson Tide
+Die Hard: With a Vengeance
+Free Willy 2: The Adventure Home
+Party Girl
+
+
+Layer 2 - Code 150
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Man with Two Brains, The
+Rich and Strange
+Message in a Bottle
+Great Locomotive Chase, The
+Slipper and the Rose, The
+
+
+Layer 2 - Code 151
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Lion King, The
+Happiest Millionaire, The
+Muppet Christmas Carol, The
+My Bodyguard
+Molly
+Bodyguard, The
+Faraway, So Close
+
+
+Layer 2 - Code 154
+Occurrences: 100
+
+Representative movies:
+------------------------------
+Babe
+French Twist
+Vampire in Brooklyn
+Happy Gilmore
+Bad Boys
+Canadian Bacon
+Devil in a Blue Dress
+Mad Love
+To Wong Foo, Thanks for Everything! Julie Newmar
+Client, The
+Wes Craven's New Nightmare
+Hard Target
+Menace II Society
+Mrs. Doubtfire
+Daylight
+American Buffalo
+Tin Cup
+Bound
+My Fair Lady
+So Dear to My Heart
+
+
+Layer 2 - Code 155
+Occurrences: 15
+
+Representative movies:
+------------------------------
+Hamlet
+In the Company of Men
+Hamlet
+Bandit Queen
+Crocodile Dundee
+Hamlet
+Outside Providence
+Body Heat
+Where the Heart Is
+Hamlet
+Hamlet
+One False Move
+Big Carnival, The
+F/X
+Hot Spot, The
+
+
+Layer 2 - Code 157
+Occurrences: 22
+
+Representative movies:
+------------------------------
+Four Rooms
+Things to Do in Denver when You're Dead
+In the Realm of the Senses
+Jack
+Beat the Devil
+That Darn Cat!
+Duck Soup
+That Darn Cat!
+Joy Luck Club, The
+Mrs. Dalloway
+Friday the 13th Part VI: Jason Lives
+Great Mouse Detective, The
+Practical Magic
+House of Dracula
+Haunted Honeymoon
+Hairspray
+Women on the Verge of a Nervous Breakdown
+Jacob's Ladder
+Puppet Master 4
+Sleepaway Camp
+
+
+Layer 2 - Code 158
+Occurrences: 17
+
+Representative movies:
+------------------------------
+Taxi Driver
+Doom Generation, The
+Judge Dredd
+Immortal Beloved
+Sum of Us, The
+Killing Zoe
+Streetcar Named Desire, A
+Apocalypse Now
+Kissed
+Arguing the World
+Life of Émile Zola, The
+Metropolitan
+Disturbing Behavior
+Fiendish Plot of Dr. Fu Manchu, The
+War of the Worlds, The
+Horror Express
+King in New York, A
+
+
+Layer 2 - Code 159
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Cronos
+Arrival, The
+Private Benjamin
+Clockwork Orange, A
+Dead Poets Society
+Conquest of the Planet of the Apes
+Patriot, The
+In Crowd, The
+
+
+Layer 2 - Code 160
+Occurrences: 23
+
+Representative movies:
+------------------------------
+Sudden Death
+Braveheart
+Corrina, Corrina
+Crooklyn
+Philadelphia
+Last Dance
+Carpool
+Freeway
+Sound of Music, The
+Surviving Picasso
+Passion Fish
+Portrait of a Lady, The
+Donnie Brasco
+Out of Sight
+Driving Miss Daisy
+Soylent Green
+Lifeboat
+Rollercoaster
+Loss of Sexual Innocence, The
+Liberty Heights
+
+
+Layer 2 - Code 164
+Occurrences: 11
+
+Representative movies:
+------------------------------
+Walk in the Clouds, A
+Miracle on 34th Street
+Favor, The
+Perfect World, A
+Insomnia
+I Still Know What You Did Last Summer
+Miracle on 34th Street
+City, The
+Maurice
+End of the Affair, The
+Captain Horatio Hornblower
+
+
+Layer 2 - Code 165
+Occurrences: 21
+
+Representative movies:
+------------------------------
+Shanghai Triad
+S.F.W.
+House Party 3
+M. Butterfly
+Sirens
+Nightmare Before Christmas, The
+Land Before Time III: The Time of the Great Giving
+Reluctant Debutante, The
+Smilla's Sense of Snow
+Children of the Revolution
+Borrowers, The
+Child's Play 3
+Lolita
+Desert Bloom
+Texas Chainsaw Massacre, The
+Leatherface: Texas Chainsaw Massacre III
+Three Seasons
+Lolita
+Three Kings
+Three Ages, The
+
+
+Layer 2 - Code 166
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Jeffrey
+Torn Curtain
+Stepford Wives, The
+Jeremiah Johnson
+Anchors Aweigh
+Puppet Master III: Toulon's Revenge
+Art of War, The
+
+
+Layer 2 - Code 167
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Jefferson in Paris
+Naked Gun 33 1/3: The Final Insult
+Haunted World of Edward D. Wood Jr., The
+Bedknobs and Broomsticks
+T-Men
+Somewhere in Time
+Nosferatu a Venezia
+Fools Rush In
+Price Above Rubies, A
+Wrong Man, The
+Prince of Egypt, The
+She's All That
+Dinner Game, The
+Those Who Love Me Can Take the Train
+
+
+Layer 2 - Code 168
+Occurrences: 19
+
+Representative movies:
+------------------------------
+Twelve Monkeys
+Unforgettable
+Boys of St. Vincent, The
+Strange Days
+Fearless
+Heavy
+Pete's Dragon
+Kolya
+Peacemaker, The
+Deconstructing Harry
+Man for All Seasons, A
+Saltmen of Tibet, The
+Harvey
+Grumpy Old Men
+Virgin Suicides, The
+Monsieur Verdoux
+Starman
+Saving Grace
+Crush, The
+
+
+Layer 2 - Code 169
+Occurrences: 17
+
+Representative movies:
+------------------------------
+Dunston Checks In
+Maverick
+Piano, The
+Band Wagon, The
+Alice in Wonderland
+Sleepers
+Amityville Horror, The
+Mother
+SubUrbia
+Conan the Barbarian
+Air Force One
+Office Killer
+Night Porter, The
+House
+Class
+Nothing But Trouble
+Bossa Nova
+
+
+Layer 2 - Code 172
+Occurrences: 30
+
+Representative movies:
+------------------------------
+Up Close and Personal
+Super Mario Bros.
+Spy Hard
+To Catch a Thief
+D3: The Mighty Ducks
+William Shakespeare's Romeo and Juliet
+Once Upon a Time in the West
+Indiana Jones and the Last Crusade
+Face/Off
+Alien Escape
+U.S. Marshalls
+Edward Scissorhands
+Siege, The
+Lifeforce
+First Blood
+Other Sister, The
+Pushing Tin
+After Life
+Runaway Bride
+Wanted: Dead or Alive
+
+
+Layer 2 - Code 173
+Occurrences: 59
+
+Representative movies:
+------------------------------
+Toy Story
+Balto
+Stars Fell on Henrietta, The
+Six Degrees of Separation
+Brady Bunch Movie, The
+She's the One
+Three Caballeros, The
+Sword in the Stone, The
+Star Wars: Episode VI - Return of the Jedi
+Third Man, The
+Quiet Man, The
+Ghosts of Mississippi
+Prefontaine
+McHale's Navy
+Home Alone 3
+Hana-bi
+X-Files: Fight the Future, The
+Mrs. Miniver
+On the Waterfront
+Mask of Zorro, The
+
+
+Layer 2 - Code 175
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Perez Family, The
+Spitfire Grill, The
+Amityville: A New Generation
+Broadway Melody, The
+Let's Talk About Sex
+Help!
+American Pimp
+Highlander: Endgame
+
+
+Layer 2 - Code 178
+Occurrences: 85
+
+Representative movies:
+------------------------------
+Dangerous Minds
+Dead Man Walking
+Living in Oblivion
+Unstrung Heroes
+Heavyweights
+Shallow Grave
+Tales from the Hood
+Underneath, The
+Reality Bites
+Clean Slate
+In the Army Now
+Loaded
+Mission: Impossible
+Clean Slate
+Operation Dumbo Drop
+Escape from L.A.
+Love in the Afternoon
+Apple Dumpling Gang, The
+20,000 Leagues Under the Sea
+Bitter Sugar
+
+
+Layer 2 - Code 179
+Occurrences: 5
+
+Representative movies:
+------------------------------
+War, The
+Power 98
+Gods Must Be Crazy, The
+Young Doctors in Love
+Asylum
+
+
+Layer 2 - Code 182
+Occurrences: 18
+
+Representative movies:
+------------------------------
+Belle de jour
+Professional, The
+Barcelona
+Big Blue, The
+Alien³
+Seven Years in Tibet
+Hard Rain
+Big Hit, The
+Godzilla
+Wisdom
+Godzilla
+Godzilla
+King Kong vs. Godzilla
+Color Purple, The
+Hurricane, The
+True Grit
+Gladiator
+Perfect Storm, The
+
+
+Layer 2 - Code 186
+Occurrences: 34
+
+Representative movies:
+------------------------------
+Casino
+Mortal Kombat
+Boomerang
+Tales From the Crypt Presents: Demon Knight
+Color of Night
+Simple Twist of Fate, A
+Family Thing, A
+Twister
+Big Night
+Grosse Fatigue
+Harold and Maude
+Wishmaster
+Mortal Kombat: Annihilation
+Dark City
+Big One, The
+Mr. Jealousy
+Grand Hotel
+Lethal Weapon
+Something Wicked This Way Comes
+Blade
+
+
+Layer 2 - Code 187
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Losing Isaiah
+For Love or Money
+Wild Reeds
+Killing Fields, The
+A Chef in Love
+Chasing Amy
+Hot Lead and Cold Feet
+L.A. Story
+Gods and Monsters
+Simple Plan, A
+
+
+Layer 2 - Code 188
+Occurrences: 33
+
+Representative movies:
+------------------------------
+From Dusk Till Dawn
+Bridges of Madison County, The
+Miami Rhapsody
+Nobody's Fool
+Strawberry and Chocolate
+Farewell My Concubine
+Robert A. Heinlein's The Puppet Masters
+Wedding Gift, The
+Beauty and the Beast
+Ransom
+Shaggy Dog, The
+Fox and the Hound, The
+Garden of Finzi-Contini, The
+Liar Liar
+Leading Man, The
+Prophecy II, The
+Cousin Bette
+Pretty in Pink
+Best Man, The
+Velvet Goldmine
+
+
+Layer 2 - Code 190
+Occurrences: 52
+
+Representative movies:
+------------------------------
+Assassins
+Nico Icon
+From the Journals of Jean Seberg
+Eat Drink Man Woman
+Mary Shelley's Frankenstein
+Queen Margot
+Serial Mom
+One Fine Day
+Phantom, The
+Rendezvous in Paris
+Relic, The
+Ghost and Mrs. Muir, The
+African Queen, The
+Dial M for Murder
+Alien
+Local Hero
+Treasure of the Sierra Madre, The
+Crucible, The
+Jaws 3-D
+Mars Attacks!
+
+
+Layer 2 - Code 192
+Occurrences: 20
+
+Representative movies:
+------------------------------
+Feast of July
+Wolf
+Good Man in Africa, A
+Bad Moon
+8 1/2
+Body Parts
+Temptress Moon
+How to Be a Player
+Wild Man Blues
+Friday the 13th Part VIII: Jason Takes Manhattan
+Soul Man
+Earthquake
+Dancemaker
+In Too Deep
+Anywhere But Here
+Big Combo, The
+Love Is a Many-Splendored Thing
+Hustler, The
+8 1/2 Women
+Catfish in Black Bean Sauce
+
+
+Layer 2 - Code 193
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Germinal
+Bogus
+Prince Valiant
+Prancer
+Blue Collar
+Nutty Professor II: The Klumps
+Crime and Punishment in Suburbia
+
+
+Layer 2 - Code 195
+Occurrences: 5
+
+Representative movies:
+------------------------------
+What Happened Was...
+Little Lord Fauntleroy
+Forever Young
+For the Love of Benji
+Abbott and Costello Meet Frankenstein
+
+
+Layer 2 - Code 199
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Postino, Il
+Interview with the Vampire
+Big Squeeze, The
+Amityville 3-D
+Turbulence
+Ayn Rand: A Sense of Life
+Six Days Seven Nights
+American Tail, An
+Finding North
+No Mercy
+Rent-A-Cop
+Bootmen
+
+
+Layer 2 - Code 210
+Occurrences: 14
+
+Representative movies:
+------------------------------
+Outbreak
+Richie Rich
+You So Crazy
+Warriors of Virtue
+Willow
+Lake Placid
+Tommy
+Superstar
+Tarzan the Fearless
+War Zone, The
+Goodbye Girl, The
+Tigger Movie, The
+Erin Brockovich
+Last Resort
+
+
+Layer 2 - Code 212
+Occurrences: 11
+
+Representative movies:
+------------------------------
+Star Trek V: The Final Frontier
+Absolute Power
+Rainmaker, The
+Fanny and Alexander
+Henry: Portrait of a Serial Killer, Part 2
+Say Anything...
+Celebration, The
+Castle, The
+City Lights
+Champ, The
+28 Days
+
+
+Layer 2 - Code 214
+Occurrences: 37
+
+Representative movies:
+------------------------------
+Journey of August King, The
+Blue in the Face
+Three Colors: Blue
+Federal Hill
+Cliffhanger
+In the Line of Fire
+True Crime
+Fled
+Good Will Hunting
+Welcome to Woop-Woop
+Whatever
+Back to the Future Part III
+Son of Flubber
+I Confess
+Down in the Delta
+Children of the Corn III
+True Crime
+Run Lola Run
+Eyes Wide Shut
+Vibes
+
+
+Layer 2 - Code 215
+Occurrences: 16
+
+Representative movies:
+------------------------------
+Home for the Holidays
+Jupiter's Wife
+Moonlight and Valentino
+Godfather, The
+Outlaw, The
+Grifters, The
+Female Perversions
+Falling in Love Again
+I Love You, I Love You Not
+Music From Another Room
+Species II
+Blue Velvet
+Belizaire the Cajun
+Head On
+Malcolm X
+Nine 1/2 Weeks
+
+
+Layer 2 - Code 219
+Occurrences: 44
+
+Representative movies:
+------------------------------
+Othello
+To Die For
+Antonia's Line
+Star Maker, The
+Under Siege 2: Dark Territory
+Backbeat
+Wonderful, Horrible Life of Leni Riefenstahl, The
+Air Up There, The
+Blink
+Ref, The
+Three Musketeers, The
+Cold Fever
+Barb Wire
+House Arrest
+Meet Me in St. Louis
+Madonna: Truth or Dare
+Princess Bride, The
+Deer Hunter, The
+Batman Returns
+Traveller
+
+
+Layer 2 - Code 222
+Occurrences: 39
+
+Representative movies:
+------------------------------
+Kids
+What's Eating Gilbert Grape
+Forrest Gump
+River Wild, The
+Speed
+Firm, The
+Romper Stomper
+Terminator 2: Judgment Day
+Singin' in the Rain
+Notorious
+Of Human Bondage
+Christmas Carol, A
+Manon of the Spring
+Monty Python and the Holy Grail
+12 Angry Men
+Trust
+M
+Back to the Future
+Body Snatcher, The
+Raising Arizona
+
+
+Layer 2 - Code 223
+Occurrences: 25
+
+Representative movies:
+------------------------------
+Georgia
+Showgirls
+Death and the Maiden
+Nell
+Dear Diary
+Trigger Effect, The
+Charade
+Laura
+Aliens
+Santa with Muscles
+Assignment, The
+Gang Related
+Flubber
+Sleeping Beauty
+Dance with Me
+One Tough Cop
+Mighty, The
+Thumbelina
+Boondock Saints, The
+Good Mother, The
+
+
+Layer 2 - Code 226
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Seven
+Kim
+Blob, The
+Ridicule
+Orgazmo
+Dancing at Lughnasa
+Open Your Eyes
+Train of Life
+End of Days
+
+
+Layer 2 - Code 228
+Occurrences: 17
+
+Representative movies:
+------------------------------
+Carried Away
+High School High
+Supercop
+Little City
+Safe Men
+Ronin
+Sheltering Sky, The
+Karate Kid III, The
+Inspector Gadget
+Spartacus
+Tingler, The
+Niagara
+Fight Club
+Topsy-Turvy
+Montana
+Teenage Mutant Ninja Turtles
+White Sands
+
+
+Layer 2 - Code 229
+Occurrences: 25
+
+Representative movies:
+------------------------------
+Circle of Friends
+Romeo Is Bleeding
+Spanking the Monkey
+Lady of Burlesque
+Beautiful Thing
+Fish Called Wanda, A
+American Werewolf in London, An
+Hotel de Love
+Private Parts
+Tender Mercies
+Why Do Fools Fall In Love?
+Hard Core Logo
+Friends & Lovers
+Communion
+Funhouse, The
+Emperor and the Assassin, The
+Man from Laramie, The
+My Tutor
+Creature Comforts
+Puppet Master
+
+
+Layer 2 - Code 230
+Occurrences: 15
+
+Representative movies:
+------------------------------
+Heidi Fleiss: Hollywood Madam
+Umbrellas of Cherbourg, The
+Ruby in Paradise
+Philadelphia Story, The
+Madame Butterfly
+Paradise Lost: The Child Murders at Robin Hood Hills
+Beautician and the Beast, The
+Love! Valour! Compassion!
+187
+Rocky III
+General, The
+Saturn 3
+General, The
+Killing of Sister George, The
+Committed
+
+
+Layer 2 - Code 232
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Excess Baggage
+Thousand Acres, A
+Man Who Knew Too Much, The
+Shadow of a Doubt
+Man Who Knew Too Much, The
+Alarmist, The
+Mickey Blue Eyes
+American Movie
+Ninth Gate, The
+Urbania
+
+
+Layer 2 - Code 233
+Occurrences: 9
+
+Representative movies:
+------------------------------
+Glass Shield, The
+Parent Trap, The
+Last of the Mohicans, The
+Career Girls
+Incredible Journey, The
+Parent Trap, The
+Three Amigos!
+Tarzan
+Mosquito Coast, The
+
+
+Layer 2 - Code 234
+Occurrences: 10
+
+Representative movies:
+------------------------------
+Preacher's Wife, The
+Name of the Rose, The
+Distinguished Gentleman, The
+To Sir with Love
+Prince of Tides, The
+Idiots, The
+Soapdish
+But I'm a Cheerleader
+Girl on the Bridge, The
+Suddenly, Last Summer
+
+
+Layer 2 - Code 235
+Occurrences: 8
+
+Representative movies:
+------------------------------
+Big Green, The
+Heaven & Earth
+Apostle, The
+Greatest Show on Earth, The
+Klute
+Mystery Men
+Conformist, The
+Fabulous Baker Boys, The
+
+
+Layer 2 - Code 236
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Low Down Dirty Shame, A
+Perfect Candidate, A
+Whole Wide World, The
+Message to Love: The Isle of Wight Festival
+Romy and Michele's High School Reunion
+Sweet Hereafter, The
+Virus
+Howling II: Your Sister Is a Werewolf
+It Came from Hollywood
+Little Shop of Horrors, The
+Romeo and Juliet
+H.O.T.S.
+
+
+Layer 2 - Code 237
+Occurrences: 12
+
+Representative movies:
+------------------------------
+Amazing Panda Adventure, The
+Addiction, The
+Legends of the Fall
+Paris, France
+Killer: A Journal of Murder
+Star Trek: The Motion Picture
+Money Pit, The
+School of Flesh, The
+Bedroom Window, The
+Plenty
+Cutting Edge, The
+Muppets Take Manhattan, The
+
+
+Layer 2 - Code 238
+Occurrences: 26
+
+Representative movies:
+------------------------------
+Black Sheep
+Bhaji on the Beach
+Underground
+Independence Day
+Ninotchka
+Palookaville
+Single Girl, A
+Two or Three Things I Know About Her
+Guantanamera
+Selena
+Hoodlum
+Marty
+Goonies, The
+Bambi
+Marnie
+Knock Off
+Digging to China
+Police Academy
+Hurlyburly
+Meteor
+
+
+Layer 2 - Code 239
+Occurrences: 7
+
+Representative movies:
+------------------------------
+Net, The
+Little Princess, The
+George of the Jungle
+City of Angels
+Slums of Beverly Hills, The
+Oscar and Lucinda
+Solaris
+
+
+Layer 2 - Code 246
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Bio-Dome
+Angels and Insects
+Johnny Mnemonic
+Primal Fear
+301, 302
+39 Steps, The
+Real Genius
+Can't Hardly Wait
+From Here to Eternity
+Rain Man
+Secret Agent
+Big Chill, The
+Austin Powers: The Spy Who Shagged Me
+
+
+Layer 2 - Code 247
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Grand Day Out, A
+Free Willy 3: The Rescue
+Rope
+And Now for Something Completely Different
+Problem Child 2
+
+
+Layer 2 - Code 251
+Occurrences: 52
+
+Representative movies:
+------------------------------
+Mr. Holland's Opus
+White Squall
+Kid in King Arthur's Court, A
+Stargate
+Tommy Boy
+Red Rock West
+Next Karate Kid, The
+Slingshot, The
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+Story of Xinghua, The
+Meet John Doe
+Dumbo
+Microcosmos
+Fog, The
+Raw Deal
+Raiders of the Lost Ark
+Ran
+Field of Dreams
+Breaking the Waves
+Quiet Room, The
+
+
+Layer 2 - Code 252
+Occurrences: 5
+
+Representative movies:
+------------------------------
+Promise, The
+Object of My Affection, The
+Chill Factor
+Snows of Kilimanjaro, The
+Love's Labour's Lost
+
+
+Layer 2 - Code 253
+Occurrences: 78
+
+Representative movies:
+------------------------------
+Two if by Sea
+Bottle Rocket
+Brothers McMullen, The
+Rob Roy
+Bushwhacked
+Before Sunrise
+Houseguest
+Ladybird Ladybird
+Like Water for Chocolate
+Milk Money
+Pyromaniac's Love Story, A
+Safe Passage
+Timecop
+Fear, The
+Beverly Hillbillies, The
+Jurassic Park
+Lassie
+Last Action Hero
+Lightning Jack
+Much Ado About Nothing
+
+
+Layer 2 - Code 255
+Occurrences: 13
+
+Representative movies:
+------------------------------
+Richard III
+Chungking Express
+Little Princess, A
+Andre
+Contact
+Killer's Kiss
+Lucie Aubrac
+Grandfather, The
+Bicycle Thief, The
+Star Is Born, A
+Beautiful People
+Who's That Girl?
+Conversation, The
+
+
